@@ -1,0 +1,1386 @@
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : which git
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/bin/git
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : which openssl
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : which curl
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : which wget
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/bin/wget
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/bin/dos2unix
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO] checkVersionUtil webase: v1.5.0 and fisco version: 2.7.2
+[2023-04-14 12:03:05] [INFO] checkVersionUtil int webase: 150 and fisco version: 272
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1,status :0 , output: 1570.61
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : which nginx
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : java -version
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.18" 2023-01-17
+OpenJDK Runtime Environment (build 11.0.18+10-post-Ubuntu-0ubuntu120.04.1)
+OpenJDK 64-Bit Server VM (build 11.0.18+10-post-Ubuntu-0ubuntu120.04.1, mixed mode, sharing)
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /usr/lib/jvm/java-11-openjdk-amd64
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO] check mgr db user/password correct!
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO] check sign db user/password correct!
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:05] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : cp -f nodeconf nodetemp
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : cp -f nodeconf nodetemp,status :0 , output: 
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/1/g" nodeconf
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/1/g" nodeconf,status :0 , output: 
+[2023-04-14 12:03:05] [INFO]  execute cmd  start ,cmd : dos2unix nodeconf
+[2023-04-14 12:03:05] [INFO]  execute cmd  end ,cmd : dos2unix nodeconf,status :0 , output: dos2unix: converting file nodeconf to Unix format...
+[2023-04-14 12:03:28] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:28] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:28] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:28] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:28] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:03:28] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:03:28] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:03:28] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file download_bin.sh to Unix format...
+dos2unix: converting file download_console.sh to Unix format...
+dos2unix: converting file start_all.sh to Unix format...
+dos2unix: converting file stop_all.sh to Unix format...
+[2023-04-14 12:03:30] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:30] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:30] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : unzip -o webase-sign.zip
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : unzip -o webase-sign.zip,status :0 , output: Archive:  webase-sign.zip
+   creating: webase-sign/
+  inflating: webase-sign/status.sh   
+   creating: webase-sign/conf/
+   creating: webase-sign/conf/mapper/
+  inflating: webase-sign/conf/mapper/UserDao.xml  
+   creating: webase-sign/conf/swagger/
+  inflating: webase-sign/conf/swagger/swagger-ui-bundle.js  
+  inflating: webase-sign/conf/swagger/swagger-ui.js  
+  inflating: webase-sign/conf/swagger/swagger-ui-standalone-preset.js  
+ extracting: webase-sign/conf/swagger/favicon-32x32.png  
+  inflating: webase-sign/conf/swagger/index.html  
+  inflating: webase-sign/conf/swagger/swagger-ui.css  
+  inflating: webase-sign/conf/swagger/swagger-ui.css.map  
+ extracting: webase-sign/conf/swagger/favicon-16x16.png  
+  inflating: webase-sign/conf/swagger/swagger-ui-bundle.js.map  
+  inflating: webase-sign/conf/swagger/swagger-ui.js.map  
+  inflating: webase-sign/conf/swagger/swagger-ui-standalone-preset.js.map  
+  inflating: webase-sign/conf/application.yml  
+  inflating: webase-sign/conf/log4j2.xml  
+  inflating: webase-sign/stop.sh     
+   creating: webase-sign/lib/
+  inflating: webase-sign/lib/spring-plugin-core-1.2.0.RELEASE.jar  
+  inflating: webase-sign/lib/spring-context-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/spring-tx-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/lombok-1.18.6.jar  
+  inflating: webase-sign/lib/jackson-module-parameter-names-2.11.0.jar  
+  inflating: webase-sign/lib/tomcat-annotations-api-8.5.56.jar  
+  inflating: webase-sign/lib/spring-jdbc-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/mybatis-spring-boot-starter-1.3.1.jar  
+  inflating: webase-sign/lib/tcnative-2.0.34.0.jar  
+  inflating: webase-sign/lib/activation-1.1.1.jar  
+  inflating: webase-sign/lib/tomcat-embed-el-8.5.56.jar  
+  inflating: webase-sign/lib/sdk-core-2.7.0-SNAPSHOT.jar  
+  inflating: webase-sign/lib/bcprov-jdk15on-1.67.jar  
+  inflating: webase-sign/lib/spring-boot-configuration-processor-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/spring-webmvc-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/springfox-core-2.8.0.jar  
+  inflating: webase-sign/lib/byte-buddy-1.7.9.jar  
+  inflating: webase-sign/lib/jackson-annotations-2.11.0.jar  
+  inflating: webase-sign/lib/aspectjweaver-1.8.14.jar  
+  inflating: webase-sign/lib/spring-boot-autoconfigure-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/springfox-swagger2-2.8.0.jar  
+  inflating: webase-sign/lib/springfox-schema-2.8.0.jar  
+  inflating: webase-sign/lib/springfox-swagger-common-2.8.0.jar  
+  inflating: webase-sign/lib/spring-boot-starter-aop-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/log4j-web-2.13.3.jar  
+  inflating: webase-sign/lib/jackson-core-2.11.0.jar  
+  inflating: webase-sign/lib/spring-boot-starter-jdbc-1.5.6.RELEASE.jar  
+  inflating: webase-sign/lib/mysql-connector-java-8.0.22.jar  
+  inflating: webase-sign/lib/mybatis-spring-boot-autoconfigure-1.3.1.jar  
+  inflating: webase-sign/lib/log4j-api-2.13.3.jar  
+  inflating: webase-sign/lib/spring-context-support-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/jboss-logging-3.3.0.Final.jar  
+  inflating: webase-sign/lib/spring-boot-starter-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/reflections-0.9.11.jar  
+  inflating: webase-sign/lib/jcl-over-slf4j-1.7.30.jar  
+  inflating: webase-sign/lib/hibernate-validator-5.3.6.Final.jar  
+  inflating: webase-sign/lib/spring-plugin-metadata-1.2.0.RELEASE.jar  
+  inflating: webase-sign/lib/mybatis-spring-1.3.1.jar  
+  inflating: webase-sign/lib/spring-expression-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/toml4j-0.7.2.jar  
+  inflating: webase-sign/lib/tomcat-juli-8.5.56.jar  
+  inflating: webase-sign/lib/commons-lang3-3.6.jar  
+  inflating: webase-sign/lib/swagger-annotations-1.5.14.jar  
+  inflating: webase-sign/lib/gson-2.8.1.jar  
+  inflating: webase-sign/lib/slf4j-api-1.7.30.jar  
+  inflating: webase-sign/lib/validation-api-1.1.0.Final.jar  
+  inflating: webase-sign/lib/spring-boot-starter-tomcat-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/log4j-core-2.13.3.jar  
+  inflating: webase-sign/lib/jackson-databind-2.11.0.jar  
+  inflating: webase-sign/lib/jackson-datatype-jdk8-2.11.0.jar  
+  inflating: webase-sign/lib/classmate-1.3.4.jar  
+  inflating: webase-sign/lib/netty-sm-ssl-context-1.2.0.jar  
+  inflating: webase-sign/lib/netty-all-4.1.53.Final.jar  
+  inflating: webase-sign/lib/jaxb-impl-2.3.0.jar  
+  inflating: webase-sign/lib/guava-20.0.jar  
+  inflating: webase-sign/lib/log4j-slf4j-impl-2.13.3.jar  
+  inflating: webase-sign/lib/tomcat-embed-websocket-8.5.56.jar  
+  inflating: webase-sign/lib/spring-web-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/jaxb-core-2.3.0.jar  
+  inflating: webase-sign/lib/spring-boot-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/protobuf-java-3.11.4.jar  
+  inflating: webase-sign/lib/swagger-models-1.5.14.jar  
+  inflating: webase-sign/lib/tomcat-jdbc-8.5.56.jar  
+  inflating: webase-sign/lib/springfox-spi-2.8.0.jar  
+  inflating: webase-sign/lib/javassist-3.21.0-GA.jar  
+  inflating: webase-sign/lib/tomcat-embed-core-8.5.56.jar  
+  inflating: webase-sign/lib/sdk-crypto-2.7.0-SNAPSHOT.jar  
+  inflating: webase-sign/lib/spring-beans-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/spring-core-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/jaxb-api-2.3.0.jar  
+  inflating: webase-sign/lib/mybatis-3.4.5.jar  
+  inflating: webase-sign/lib/spring-aop-4.3.27.RELEASE.jar  
+  inflating: webase-sign/lib/jackson-datatype-jsr310-2.11.0.jar  
+  inflating: webase-sign/lib/springfox-swagger-ui-2.8.0.jar  
+  inflating: webase-sign/lib/spring-boot-starter-web-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/spring-boot-starter-cache-1.5.22.RELEASE.jar  
+  inflating: webase-sign/lib/springfox-spring-web-2.8.0.jar  
+  inflating: webase-sign/lib/snakeyaml-1.17.jar  
+  inflating: webase-sign/lib/commons-logging-1.2.jar  
+  inflating: webase-sign/lib/mapstruct-1.2.0.Final.jar  
+  inflating: webase-sign/lib/key-mini-toolkit-1.0.2.jar  
+  inflating: webase-sign/start.sh    
+   creating: webase-sign/apps/
+  inflating: webase-sign/apps/WeBASE-Sign.jar  
+ extracting: webase-sign/release_note.txt  
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml /home/loveqq/fisco/webase-deploy/webase-sign/conf/temp.yml
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml /home/loveqq/fisco/webase-deploy/webase-sign/conf/temp.yml,status :0 , output: 
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : sed -i "s/5004/5004/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : sed -i "s/5004/5004/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : sed -i "s/3306/3306/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : sed -i "s/3306/3306/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : sed -i "s/dbUsername/root/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : sed -i "s/dbUsername/root/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : sed -i "s/dbPassword/123456/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : sed -i "s/dbPassword/123456/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:35] [INFO]  execute cmd  start ,cmd : sed -i "s/webasesign/db02/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml
+[2023-04-14 12:03:35] [INFO]  execute cmd  end ,cmd : sed -i "s/webasesign/db02/g" /home/loveqq/fisco/webase-deploy/webase-sign/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:35] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:35] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:38] [INFO] DROP DATABASE IF EXISTS db02
+[2023-04-14 12:03:38] [INFO] CREATE DATABASE IF NOT EXISTS db02
+[2023-04-14 12:03:38] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:38] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:38] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:03:38] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:03:38] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:03:38] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:03:38] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:03:38] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:03:38] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 12:03:38] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Starting Server com.webank.webase.sign.Application Port 5004 ...PID(785) [Starting]. Please check message through the log file (default path:./log/).
+===============================================================================================
+[2023-04-14 12:03:43] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:43] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:43] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:51] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:51] [INFO]  execute cmd  start ,cmd : unzip -o webase-front.zip
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : unzip -o webase-front.zip,status :0 , output: Archive:  webase-front.zip
+   creating: webase-front/
+  inflating: webase-front/status.sh  
+   creating: webase-front/conf/
+  inflating: webase-front/conf/template  
+  inflating: webase-front/conf/libsigar-x86-linux.so  
+  inflating: webase-front/conf/libsigar-amd64-linux.so  
+  inflating: webase-front/conf/libsigar-universal64-macosx.dylib  
+   creating: webase-front/conf/files/
+  inflating: webase-front/conf/files/ContractAbiMgr_  
+   creating: webase-front/conf/swagger/
+  inflating: webase-front/conf/swagger/swagger-ui-bundle.js  
+  inflating: webase-front/conf/swagger/swagger-ui.js  
+  inflating: webase-front/conf/swagger/swagger-ui-standalone-preset.js  
+ extracting: webase-front/conf/swagger/favicon-32x32.png  
+  inflating: webase-front/conf/swagger/index.html  
+  inflating: webase-front/conf/swagger/swagger-ui.css  
+  inflating: webase-front/conf/swagger/swagger-ui.css.map  
+ extracting: webase-front/conf/swagger/favicon-16x16.png  
+  inflating: webase-front/conf/swagger/swagger-ui-bundle.js.map  
+  inflating: webase-front/conf/swagger/swagger-ui.js.map  
+  inflating: webase-front/conf/swagger/swagger-ui-standalone-preset.js.map  
+  inflating: webase-front/conf/application.yml  
+  inflating: webase-front/conf/libsigar-aarch64-linux.so  
+  inflating: webase-front/conf/log4j2.xml  
+  inflating: webase-front/stop.sh    
+   creating: webase-front/lib/
+  inflating: webase-front/lib/spring-plugin-core-1.2.0.RELEASE.jar  
+  inflating: webase-front/lib/spring-context-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/hibernate-entitymanager-5.0.12.Final.jar  
+  inflating: webase-front/lib/spring-tx-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/lombok-1.18.6.jar  
+  inflating: webase-front/lib/tomcat-annotations-api-8.5.56.jar  
+  inflating: webase-front/lib/spring-jdbc-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/tcnative-2.0.34.0.jar  
+  inflating: webase-front/lib/error_prone_annotations-2.3.4.jar  
+  inflating: webase-front/lib/activation-1.1.1.jar  
+  inflating: webase-front/lib/tomcat-embed-el-8.5.56.jar  
+  inflating: webase-front/lib/spring-boot-starter-data-jpa-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/spring-boot-configuration-processor-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/spring-webmvc-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/springfox-core-2.8.0.jar  
+  inflating: webase-front/lib/byte-buddy-1.7.9.jar  
+  inflating: webase-front/lib/jackson-annotations-2.11.0.jar  
+  inflating: webase-front/lib/aspectjweaver-1.8.14.jar  
+  inflating: webase-front/lib/commons-codec-1.6.jar  
+  inflating: webase-front/lib/checker-qual-2.11.1.jar  
+  inflating: webase-front/lib/httpclient-4.3.6.jar  
+  inflating: webase-front/lib/spring-boot-autoconfigure-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/springfox-swagger2-2.8.0.jar  
+  inflating: webase-front/lib/springfox-schema-2.8.0.jar  
+  inflating: webase-front/lib/springfox-swagger-common-2.8.0.jar  
+  inflating: webase-front/lib/spring-boot-starter-aop-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/log4j-web-2.13.3.jar  
+  inflating: webase-front/lib/jackson-core-2.11.0.jar  
+  inflating: webase-front/lib/spring-aspects-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/commons-lang3-3.8.1.jar  
+  inflating: webase-front/lib/spring-amqp-1.7.14.RELEASE.jar  
+  inflating: webase-front/lib/log4j-api-2.13.3.jar  
+  inflating: webase-front/lib/spring-messaging-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/jboss-logging-3.3.0.Final.jar  
+  inflating: webase-front/lib/spring-boot-starter-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/httpcore-4.3.3.jar  
+  inflating: webase-front/lib/reflections-0.9.11.jar  
+  inflating: webase-front/lib/jcl-over-slf4j-1.7.30.jar  
+  inflating: webase-front/lib/spring-boot-starter-amqp-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/hibernate-validator-5.3.6.Final.jar  
+  inflating: webase-front/lib/spring-plugin-metadata-1.2.0.RELEASE.jar  
+  inflating: webase-front/lib/spring-expression-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/toml4j-0.7.2.jar  
+  inflating: webase-front/lib/guava-29.0-jre.jar  
+  inflating: webase-front/lib/hibernate-core-5.0.12.Final.jar  
+  inflating: webase-front/lib/tomcat-juli-8.5.56.jar  
+  inflating: webase-front/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar  
+  inflating: webase-front/lib/swagger-annotations-1.5.14.jar  
+  inflating: webase-front/lib/gson-2.8.1.jar  
+  inflating: webase-front/lib/slf4j-api-1.7.30.jar  
+  inflating: webase-front/lib/dom4j-1.6.1.jar  
+  inflating: webase-front/lib/jsr305-3.0.2.jar  
+  inflating: webase-front/lib/validation-api-1.1.0.Final.jar  
+  inflating: webase-front/lib/bcprov-jdk15on-1.60.jar  
+  inflating: webase-front/lib/xml-apis-1.0.b2.jar  
+  inflating: webase-front/lib/spring-boot-starter-tomcat-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/log4j-core-2.13.3.jar  
+  inflating: webase-front/lib/jackson-databind-2.11.0.jar  
+  inflating: webase-front/lib/sigar-1.6.4.jar  
+  inflating: webase-front/lib/hibernate-commons-annotations-5.0.1.Final.jar  
+  inflating: webase-front/lib/classmate-1.3.4.jar  
+  inflating: webase-front/lib/netty-sm-ssl-context-1.2.0.jar  
+  inflating: webase-front/lib/netty-all-4.1.53.Final.jar  
+  inflating: webase-front/lib/jaxb-impl-2.3.0.jar  
+  inflating: webase-front/lib/log4j-slf4j-impl-2.13.3.jar  
+  inflating: webase-front/lib/tomcat-embed-websocket-8.5.56.jar  
+  inflating: webase-front/lib/spring-web-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/solcJ-0.4.25-rc1.jar  
+  inflating: webase-front/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar  
+  inflating: webase-front/lib/jaxb-core-2.3.0.jar  
+  inflating: webase-front/lib/spring-boot-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/amqp-client-4.0.3.jar  
+  inflating: webase-front/lib/spring-test-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/failureaccess-1.0.1.jar  
+  inflating: webase-front/lib/spring-rabbit-1.7.14.RELEASE.jar  
+  inflating: webase-front/lib/swagger-models-1.5.14.jar  
+  inflating: webase-front/lib/spring-retry-1.2.4.RELEASE.jar  
+  inflating: webase-front/lib/http-client-1.1.1.RELEASE.jar  
+  inflating: webase-front/lib/javax.transaction-api-1.2.jar  
+  inflating: webase-front/lib/tomcat-jdbc-8.5.56.jar  
+  inflating: webase-front/lib/springfox-spi-2.8.0.jar  
+  inflating: webase-front/lib/javassist-3.21.0-GA.jar  
+  inflating: webase-front/lib/jsqlparser-2.0.jar  
+  inflating: webase-front/lib/antlr-2.7.7.jar  
+  inflating: webase-front/lib/tomcat-embed-core-8.5.56.jar  
+  inflating: webase-front/lib/spring-beans-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/h2-1.4.200.jar  
+  inflating: webase-front/lib/spring-boot-starter-jdbc-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/spring-core-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/jaxb-api-2.3.0.jar  
+  inflating: webase-front/lib/spring-aop-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/jackson-datatype-jsr310-2.11.0.jar  
+  inflating: webase-front/lib/spring-data-jpa-1.11.23.RELEASE.jar  
+  inflating: webase-front/lib/springfox-swagger-ui-2.8.0.jar  
+  inflating: webase-front/lib/spring-boot-starter-web-1.5.22.RELEASE.jar  
+  inflating: webase-front/lib/fisco-bcos-java-sdk-2.7.2.jar  
+  inflating: webase-front/lib/springfox-spring-web-2.8.0.jar  
+  inflating: webase-front/lib/spring-orm-4.3.27.RELEASE.jar  
+  inflating: webase-front/lib/jandex-2.0.0.Final.jar  
+  inflating: webase-front/lib/j2objc-annotations-1.3.jar  
+  inflating: webase-front/lib/commons-io-2.4.jar  
+  inflating: webase-front/lib/javapoet-1.7.0.jar  
+  inflating: webase-front/lib/picocli-3.6.0.jar  
+  inflating: webase-front/lib/spring-data-commons-1.13.23.RELEASE.jar  
+  inflating: webase-front/lib/snakeyaml-1.17.jar  
+  inflating: webase-front/lib/commons-logging-1.2.jar  
+  inflating: webase-front/lib/key-mini-toolkit-1.0.3.jar  
+  inflating: webase-front/lib/mapstruct-1.2.0.Final.jar  
+  inflating: webase-front/start.sh   
+  inflating: webase-front/get_solc_js.sh  
+   creating: webase-front/static/
+  inflating: webase-front/static/index.html  
+   creating: webase-front/static/static/
+   creating: webase-front/static/static/fonts/
+  inflating: webase-front/static/static/fonts/fontello.e73a064.eot  
+  inflating: webase-front/static/static/fonts/iconfont.8ddfca3.eot  
+  inflating: webase-front/static/static/fonts/fontello.068ca2b.ttf  
+  inflating: webase-front/static/static/fonts/iconfont.ee39531.ttf  
+  inflating: webase-front/static/static/fonts/element-icons.535877f.woff  
+  inflating: webase-front/static/static/fonts/element-icons.732389d.ttf  
+   creating: webase-front/static/static/js/
+  inflating: webase-front/static/static/js/6.be3226fe41611b4a4cb6.js.gz  
+  inflating: webase-front/static/static/js/7.4c832f5d396055a10d1e.js  
+  inflating: webase-front/static/static/js/v0.4.25.js  
+  inflating: webase-front/static/static/js/v0.6.10-gm.js  
+  inflating: webase-front/static/static/js/1.1e978c313e99839b17b3.js  
+  inflating: webase-front/static/static/js/0.c1e8b49a9cd21f625460.js  
+  inflating: webase-front/static/static/js/v0.4.24-gm.js  
+  inflating: webase-front/static/static/js/base-loading.js  
+  inflating: webase-front/static/static/js/2.35568fe9e4e98ac497ab.js.gz  
+  inflating: webase-front/static/static/js/11.a7eee24b8048f8d8de70.js  
+  inflating: webase-front/static/static/js/v0.5.1.js  
+  inflating: webase-front/static/static/js/web3.min.js.gz  
+  inflating: webase-front/static/static/js/17.638ce0fb9a37687d3a83.js  
+  inflating: webase-front/static/static/js/v0.6.10.js  
+  inflating: webase-front/static/static/js/5.b617b7dc79bde50001d1.js.gz  
+  inflating: webase-front/static/static/js/4.44fab0fb5d4e8a74960f.js  
+  inflating: webase-front/static/static/js/8.70e9f5c84f6772002e04.js  
+  inflating: webase-front/static/static/js/5.b617b7dc79bde50001d1.js  
+  inflating: webase-front/static/static/js/2.35568fe9e4e98ac497ab.js  
+  inflating: webase-front/static/static/js/12.682ecd9ffcbd5fb5b029.js  
+  inflating: webase-front/static/static/js/1.1e978c313e99839b17b3.js.gz  
+  inflating: webase-front/static/static/js/19.9ea49e9069f318d71780.js  
+ extracting: webase-front/static/static/js/12.682ecd9ffcbd5fb5b029.js.gz  
+  inflating: webase-front/static/static/js/runtime.bf7c82c16d1e52e38a1e.js  
+  inflating: webase-front/static/static/js/15.9a664717946ab1b94f5e.js  
+  inflating: webase-front/static/static/js/6.be3226fe41611b4a4cb6.js  
+  inflating: webase-front/static/static/js/18.3749b959089d30932160.js  
+  inflating: webase-front/static/static/js/v0.5.1-gm.js  
+ extracting: webase-front/static/static/js/10.d738960c34d7275a464c.js.gz  
+  inflating: webase-front/static/static/js/9.e5ab8f49183c01cae310.js  
+  inflating: webase-front/static/static/js/16.24f4fb1ef35b11d5bf72.js  
+  inflating: webase-front/static/static/js/14.b261f08eb8cb118cde4b.js  
+  inflating: webase-front/static/static/js/13.6c35ca156cbfcccc7b44.js  
+  inflating: webase-front/static/static/js/10.d738960c34d7275a464c.js  
+  inflating: webase-front/static/static/js/0.c1e8b49a9cd21f625460.js.gz  
+  inflating: webase-front/static/static/js/4.44fab0fb5d4e8a74960f.js.gz  
+  inflating: webase-front/static/static/js/web3.min.js  
+   creating: webase-front/static/static/font/
+ extracting: webase-front/static/static/font/webfont.ttf  
+ extracting: webase-front/static/static/font/webfont.woff  
+  inflating: webase-front/static/static/font/webfont.svg  
+ extracting: webase-front/static/static/font/webfont.eot  
+ extracting: webase-front/static/static/font/webfont.woff2  
+   creating: webase-front/static/static/img/
+ extracting: webase-front/static/static/img/transationPedding.d68f750.png  
+ extracting: webase-front/static/static/img/transation.1a3785f.png  
+  inflating: webase-front/static/static/img/fontello.9354499.svg  
+  inflating: webase-front/static/static/img/iconfont.7fa1e8d.svg  
+   creating: webase-front/static/static/image/
+ extracting: webase-front/static/static/image/logo@2x.png  
+  inflating: webase-front/static/static/image/logo-title.png  
+  inflating: webase-front/static/static/image/logo-2 copy@1.5x.jpg  
+  inflating: webase-front/static/static/image/banner.jpg  
+  inflating: webase-front/static/static/image/block.png  
+ extracting: webase-front/static/static/image/logo.jpg  
+ extracting: webase-front/static/static/image/webase_35x35.png  
+ extracting: webase-front/static/static/image/transation.png  
+  inflating: webase-front/static/static/image/nodes.png  
+ extracting: webase-front/static/static/image/transationPedding.png  
+   creating: webase-front/static/static/css/
+  inflating: webase-front/static/static/css/base.css  
+  inflating: webase-front/static/static/css/reset.css  
+   creating: webase-front/apps/
+  inflating: webase-front/apps/WeBASE-Front.jar  
+ extracting: webase-front/release_note.txt  
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml /home/loveqq/fisco/webase-deploy/webase-front/conf/temp.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml /home/loveqq/fisco/webase-deploy/webase-front/conf/temp.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : sed -i "s/5002/5002/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : sed -i "s/5002/5002/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : sed -i "s/ip: 127.0.0.1/ip: 127.0.0.1/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : sed -i "s/ip: 127.0.0.1/ip: 127.0.0.1/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : sed -i "s/20200/20200/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : sed -i "s/20200/20200/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : sed -i "s/keyServer: 127.0.0.1:5004/keyServer: 127.0.0.1:5004/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : sed -i "s/keyServer: 127.0.0.1:5004/keyServer: 127.0.0.1:5004/g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : sed -i "s%/webasefront%/webasefront%g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : sed -i "s%/webasefront%/webasefront%g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : sed -i "s%monitorDisk: /%monitorDisk: /home/loveqq/fisco/webase-deploy/nodes/127.0.0.1%g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : sed -i "s%monitorDisk: /%monitorDisk: /home/loveqq/fisco/webase-deploy/nodes/127.0.0.1%g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : sed -i "s%nodePath: /fisco/nodes/127.0.0.1/node0%nodePath: /home/loveqq/fisco/webase-deploy/nodes/127.0.0.1/node0%g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : sed -i "s%nodePath: /fisco/nodes/127.0.0.1/node0%nodePath: /home/loveqq/fisco/webase-deploy/nodes/127.0.0.1/node0%g" /home/loveqq/fisco/webase-deploy/webase-front/conf/application.yml,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/h2
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/h2,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]  copyFiles sourceDir: /home/loveqq/fisco/webase-deploy/nodes/127.0.0.1/sdk 
+[2023-04-14 12:03:53] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:53] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file get_solc_js.sh to Unix format...
+dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:03:53] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 12:03:53] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.front.Application Port 5002 ...PID(886) [Starting]. Please check message through the log file (default path:./log/).
+===============================================================================================
+[2023-04-14 12:03:58] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:58] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:58] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:03:58] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:03:58] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:03] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:03] [INFO]  execute cmd  start ,cmd : unzip -o webase-node-mgr.zip
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : unzip -o webase-node-mgr.zip,status :0 , output: Archive:  webase-node-mgr.zip
+   creating: webase-node-mgr/
+  inflating: webase-node-mgr/status.sh  
+   creating: webase-node-mgr/conf/
+   creating: webase-node-mgr/conf/mapper/
+  inflating: webase-node-mgr/conf/mapper/MailServerConfig.xml  
+  inflating: webase-node-mgr/conf/mapper/TransHashMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AppInfoMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/ContractStoreMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/GroupMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TableMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/UserTransMonitorMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TokenMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/ContractPathMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/UserMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/CnsMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/FrontGroupMapMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/GovernVoteMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/FrontMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/NodeMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/BlockMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AccountMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/MethodMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AbiMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/CertMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TransDailyMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/ContractMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AlertLogMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AlertRuleMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/RoleMapper.xml  
+   creating: webase-node-mgr/conf/templates/
+   creating: webase-node-mgr/conf/templates/node/
+  inflating: webase-node-mgr/conf/templates/node/node-group-ini.tpl  
+  inflating: webase-node-mgr/conf/templates/node/front-application-yml.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-group-genesis.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-config-ini.tpl  
+  inflating: webase-node-mgr/conf/templates/AlertEmailForTest.html  
+  inflating: webase-node-mgr/conf/templates/AlertEmailTemplate.html  
+   creating: webase-node-mgr/conf/Arial/
+  inflating: webase-node-mgr/conf/Arial/arialbd.ttf  
+  inflating: webase-node-mgr/conf/Arial/arial.ttf  
+  inflating: webase-node-mgr/conf/Arial/arialbi.ttf  
+  inflating: webase-node-mgr/conf/Arial/ariblk.ttf  
+  inflating: webase-node-mgr/conf/Arial/ARIALNI.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNBI.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALN.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNB.TTF  
+  inflating: webase-node-mgr/conf/Arial/ariali.ttf  
+   creating: webase-node-mgr/conf/log/
+  inflating: webase-node-mgr/conf/log/log4j2-dev.xml  
+  inflating: webase-node-mgr/conf/log/log4j2.xml  
+  inflating: webase-node-mgr/conf/application.yml  
+  inflating: webase-node-mgr/stop.sh  
+   creating: webase-node-mgr/lib/
+  inflating: webase-node-mgr/lib/fisco-bcos-java-sdk-2.7.2-SNAPSHOT.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-tomcat-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/javassist-3.25.0-GA.jar  
+  inflating: webase-node-mgr/lib/snakeyaml-1.23.jar  
+  inflating: webase-node-mgr/lib/docker-java-core-3.2.1.jar  
+  inflating: webase-node-mgr/lib/lombok-1.18.6.jar  
+  inflating: webase-node-mgr/lib/jackson-module-parameter-names-2.11.0.jar  
+  inflating: webase-node-mgr/lib/guava-28.2-jre.jar  
+  inflating: webase-node-mgr/lib/tcnative-2.0.34.0.jar  
+  inflating: webase-node-mgr/lib/key-mini-toolkit-1.0.3-SNAPSHOT.jar  
+  inflating: webase-node-mgr/lib/jakarta.annotation-api-1.3.5.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-boot-starter-2.1.0.jar  
+  inflating: webase-node-mgr/lib/jackson-jaxrs-base-2.10.3.jar  
+  inflating: webase-node-mgr/lib/docker-java-transport-jersey-3.2.1.jar  
+  inflating: webase-node-mgr/lib/error_prone_annotations-2.3.4.jar  
+  inflating: webase-node-mgr/lib/activation-1.1.1.jar  
+  inflating: webase-node-mgr/lib/jsch-0.1.55.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-jdbc-2.1.6.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-tx-5.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/bcprov-jdk15on-1.67.jar  
+  inflating: webase-node-mgr/lib/jakarta.activation-api-1.2.1.jar  
+  inflating: webase-node-mgr/lib/validation-api-2.0.1.Final.jar  
+  inflating: webase-node-mgr/lib/spring-webmvc-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/ini4j-0.5.4.jar  
+  inflating: webase-node-mgr/lib/jackson-annotations-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jersey-hk2-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jakarta.xml.bind-api-2.3.2.jar  
+  inflating: webase-node-mgr/lib/commons-io-2.6.jar  
+  inflating: webase-node-mgr/lib/docker-java-api-3.2.1.jar  
+  inflating: webase-node-mgr/lib/jakarta.inject-2.6.1.jar  
+  inflating: webase-node-mgr/lib/junixsocket-common-2.3.2.jar  
+  inflating: webase-node-mgr/lib/log4j-web-2.13.3.jar  
+  inflating: webase-node-mgr/lib/jackson-core-2.11.0.jar  
+  inflating: webase-node-mgr/lib/junixsocket-native-common-2.3.2.jar  
+  inflating: webase-node-mgr/lib/unbescape-1.1.6.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-jdbc-5.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/docker-java-transport-netty-3.2.1.jar  
+  inflating: webase-node-mgr/lib/commons-compress-1.20.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-aop-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-extras-java8time-3.0.4.RELEASE.jar  
+  inflating: webase-node-mgr/lib/javax.mail-1.6.2.jar  
+  inflating: webase-node-mgr/lib/jersey-common-2.30.1.jar  
+  inflating: webase-node-mgr/lib/commons-lang3-3.8.1.jar  
+  inflating: webase-node-mgr/lib/mysql-connector-java-8.0.22.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tomcat-annotations-api-9.0.36.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-json-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-context-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/log4j-api-2.13.3.jar  
+  inflating: webase-node-mgr/lib/commons-codec-1.11.jar  
+  inflating: webase-node-mgr/lib/aspectjweaver-1.9.5.jar  
+  inflating: webase-node-mgr/lib/ognl-3.2.14.jar  
+  inflating: webase-node-mgr/lib/jcl-over-slf4j-1.7.30.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-thymeleaf-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-core-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-expression-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/checker-qual-2.10.0.jar  
+  inflating: webase-node-mgr/lib/spring-security-config-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/toml4j-0.7.2.jar  
+  inflating: webase-node-mgr/lib/spring-context-support-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/mybatis-3.5.2.jar  
+  inflating: webase-node-mgr/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar  
+  inflating: webase-node-mgr/lib/gson-2.8.1.jar  
+  inflating: webase-node-mgr/lib/slf4j-api-1.7.30.jar  
+  inflating: webase-node-mgr/lib/jsr305-3.0.2.jar  
+  inflating: webase-node-mgr/lib/zookeeper-3.3.3.jar  
+  inflating: webase-node-mgr/lib/httpcore-4.4.13.jar  
+  inflating: webase-node-mgr/lib/jackson-module-jaxb-annotations-2.10.3.jar  
+  inflating: webase-node-mgr/lib/httpclient-4.5.12.jar  
+  inflating: webase-node-mgr/lib/log4j-core-2.13.3.jar  
+  inflating: webase-node-mgr/lib/spring-boot-autoconfigure-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/jackson-databind-2.11.0.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-security-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-security-web-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-aop-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/jackson-datatype-jdk8-2.11.0.jar  
+  inflating: webase-node-mgr/lib/hk2-utils-2.6.1.jar  
+  inflating: webase-node-mgr/lib/classmate-1.3.4.jar  
+  inflating: webase-node-mgr/lib/netty-sm-ssl-context-1.2.0.jar  
+  inflating: webase-node-mgr/lib/jakarta.ws.rs-api-2.1.6.jar  
+  inflating: webase-node-mgr/lib/netty-all-4.1.53.Final.jar  
+  inflating: webase-node-mgr/lib/jaxb-impl-2.3.0.jar  
+  inflating: webase-node-mgr/lib/attoparser-2.0.5.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-websocket-9.0.36.jar  
+  inflating: webase-node-mgr/lib/log4j-slf4j-impl-2.13.3.jar  
+  inflating: webase-node-mgr/lib/hk2-api-2.6.1.jar  
+  inflating: webase-node-mgr/lib/spring-web-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/jaxb-core-2.3.0.jar  
+  inflating: webase-node-mgr/lib/jackson-jaxrs-json-provider-2.10.3.jar  
+  inflating: webase-node-mgr/lib/failureaccess-1.0.1.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-3.0.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/aopalliance-repackaged-2.6.1.jar  
+  inflating: webase-node-mgr/lib/commons-collections4-4.4.jar  
+  inflating: webase-node-mgr/lib/HikariCP-3.2.0.jar  
+  inflating: webase-node-mgr/lib/zkclient-0.1.jar  
+  inflating: webase-node-mgr/lib/jersey-apache-connector-2.30.1.jar  
+  inflating: webase-node-mgr/lib/hk2-locator-2.6.1.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-web-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-boot-autoconfigure-2.1.0.jar  
+  inflating: webase-node-mgr/lib/docker-java-3.2.1.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-2.0.2.jar  
+  inflating: webase-node-mgr/lib/spring-jcl-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/jaxb-api-2.3.0.jar  
+  inflating: webase-node-mgr/lib/spring-security-core-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-el-9.0.36.jar  
+  inflating: webase-node-mgr/lib/jackson-datatype-jsr310-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jersey-client-2.30.1.jar  
+  inflating: webase-node-mgr/lib/osgi-resource-locator-1.0.3.jar  
+  inflating: webase-node-mgr/lib/spring-beans-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/jboss-logging-3.3.2.Final.jar  
+  inflating: webase-node-mgr/lib/j2objc-annotations-1.3.jar  
+  inflating: webase-node-mgr/lib/hibernate-validator-6.0.20.Final.jar  
+  inflating: webase-node-mgr/lib/javapoet-1.7.0.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-spring5-3.0.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/picocli-3.6.0.jar  
+  inflating: webase-node-mgr/lib/commons-lang-2.6.jar  
+  inflating: webase-node-mgr/lib/commons-logging-1.2.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-mail-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-core-9.0.36.jar  
+  inflating: webase-node-mgr/start.sh  
+   creating: webase-node-mgr/apps/
+  inflating: webase-node-mgr/apps/WeBASE-Node-Manager.jar  
+   creating: webase-node-mgr/script/
+  inflating: webase-node-mgr/script/webase-dml.sql  
+  inflating: webase-node-mgr/script/webase.sh  
+  inflating: webase-node-mgr/script/webase-ddl.sql  
+   creating: webase-node-mgr/script/gm/
+  inflating: webase-node-mgr/script/gm/webase-sql-gm.list  
+  inflating: webase-node-mgr/script/gm/webase-dml-gm.sql  
+  inflating: webase-node-mgr/script/gm/webase-gm.sh  
+   creating: webase-node-mgr/script/deploy/
+  inflating: webase-node-mgr/script/deploy/host_check_port.sh  
+  inflating: webase-node-mgr/script/deploy/gen_node_cert.sh  
+  inflating: webase-node-mgr/script/deploy/file_trans_util.sh  
+  inflating: webase-node-mgr/script/deploy/host_check_ifconfig.sh  
+  inflating: webase-node-mgr/script/deploy/check_container_exist.sh  
+  inflating: webase-node-mgr/script/deploy/host_docker_check.sh  
+  inflating: webase-node-mgr/script/deploy/build_chain.sh  
+  inflating: webase-node-mgr/script/deploy/gen_agency_cert.sh  
+  inflating: webase-node-mgr/script/deploy/host_docker_cdn.sh  
+  inflating: webase-node-mgr/script/deploy/update_shell.sh  
+  inflating: webase-node-mgr/script/deploy/host_init_shell.sh  
+  inflating: webase-node-mgr/script/deploy/host_check.sh  
+  inflating: webase-node-mgr/script/deploy/check_image_exist.sh  
+  inflating: webase-node-mgr/script/webase-sql.list  
+   creating: webase-node-mgr/script/upgrade/
+  inflating: webase-node-mgr/script/upgrade/v143_v150.sql  
+ extracting: webase-node-mgr/release_note.txt  
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/temp.sh
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/temp.sh,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/temp.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : cp -f /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/temp.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/root/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/root/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/123456/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/123456/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/db01/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/db01/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/5001/5001/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/5001/5001/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/3306/3306/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/3306/3306/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/root/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/root/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/123456/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/123456/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/db01/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/db01/g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]  execute cmd  start ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml
+[2023-04-14 12:04:04] [INFO]  execute cmd  end ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/loveqq/fisco/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:04] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:04] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:06] [INFO] DROP DATABASE IF EXISTS db01
+[2023-04-14 12:04:06] [INFO] CREATE DATABASE IF NOT EXISTS db01
+[2023-04-14 12:04:06] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:06] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:06] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:06] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:06] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:06] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:06] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:06] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:06] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:06] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:06] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:06] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:06] [INFO] reading node manager table sql file /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase-ddl.sql
+[2023-04-14 12:04:06] [INFO] reading node manager table sql file /home/loveqq/fisco/webase-deploy/webase-node-mgr/script/webase-dml.sql
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO tb_account_info (account,account_pwd,role_id,create_time,modify_time)values('admin', '$2a$10$F/aEB1iEx/FvVh0fMn6L/uyy.PkpTy8Kd9EdbqLGo7Bw7eCivpq.m',100000,now(),now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_role` (role_name,role_name_zh,create_time,modify_time)VALUES ('admin', '管理员', now(), now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_role` (role_name,role_name_zh,create_time,modify_time)VALUES ('visitor', '普通用户', now(), now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_role` (role_name,role_name_zh,create_time,modify_time)VALUES ('developer', '开发者', now(), now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xbd291aef', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"value\",\"type\":\"string\"}],\"name\":\"setValueByKey\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x56004b6a', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"valueField\",\"type\":\"string\"}],\"name\":\"createTable\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xf23f63c9', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"\",\"type\":\"string\"}],\"name\":\"openTable\",\"outputs\":[{\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x2dca76c1', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"entry\",\"type\":\"string\"},{\"name\":\"condition\",\"type\":\"string\"},{\"name\":\"optional\",\"type\":\"string\"}],\"name\":\"update\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x983c6c4f', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"condition\",\"type\":\"string\"},{\"name\":\"optional\",\"type\":\"string\"}],\"name\":\"select\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xa72a1e65', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"condition\",\"type\":\"string\"},{\"name\":\"optional\",\"type\":\"string\"}],\"name\":\"remove\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xa216464b', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"name\",\"type\":\"string\"},{\"name\":\"version\",\"type\":\"string\"},{\"name\":\"addr\",\"type\":\"string\"},{\"name\":\"abi\",\"type\":\"string\"}],\"name\":\"insert\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-06-17 20:32:30', '2019-06-17 20:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x2800efc0', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"nodeID\",\"type\":\"string\"}],\"name\":\"addObserver\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x89152d1f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"nodeID\",\"type\":\"string\"}],\"name\":\"addSealer\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x80599e4b', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"nodeID\",\"type\":\"string\"}],\"name\":\"remove\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x819a3d62', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"name\",\"type\":\"string\"}],\"name\":\"selectByName\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-06-17 20:32:30', '2019-06-17 20:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x897f0251', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"name\",\"type\":\"string\"},{\"name\":\"version\",\"type\":\"string\"}],\"name\":\"selectByNameAndVersion\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-06-17 20:32:30', '2019-06-17 20:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x06e63ff8', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"table_name\",\"type\":\"string\"},{\"name\":\"addr\",\"type\":\"string\"}],\"name\":\"insert\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x20586031', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"table_name\",\"type\":\"string\"}],\"name\":\"queryByName\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x44590a7e', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"table_name\",\"type\":\"string\"},{\"name\":\"addr\",\"type\":\"string\"}],\"name\":\"remove\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x96ec37c4', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"grantWrite\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x99c26010', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"revokeWrite\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x30ccebb5', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"getStatus\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"},{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x45c8b1a6', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"unfreeze\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x8d1fdf2f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"freeze\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xa721fb43', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"userAddr\",\"type\":\"address\"}],\"name\":\"grantManager\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xbc92a700', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"queryManager\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"},{\"name\":\"\",\"type\":\"address[]\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x3a67288f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"userAddr\",\"type\":\"address\"}],\"name\":\"revokeManager\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x039a93ca', 0, '{\"constant\":true,\"inputs\":[],\"name\":\"listOperators\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x246c3376', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"},{\"name\":\"weight\",\"type\":\"int256\"}],\"name\":\"updateCommitteeMemberWeight\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x281af27d', 0, '{\"constant\":true,\"inputs\":[],\"name\":\"queryThreshold\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x6c147119', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"queryCommitteeMemberWeight\",\"outputs\":[{\"name\":\"\",\"type\":\"bool\"},{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x6f8f521f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"grantCommitteeMember\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x788649ea', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"account\",\"type\":\"address\"}],\"name\":\"unfreezeAccount\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x885a3a72', 0, '{\"constant\":true,\"inputs\":[],\"name\":\"listCommitteeMembers\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x97b00861', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"threshold\",\"type\":\"int256\"}],\"name\":\"updateThreshold\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xcafb4d1b', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"revokeCommitteeMember\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xe348da13', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"grantOperator\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xf26c159f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"account\",\"type\":\"address\"}],\"name\":\"freezeAccount\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xfad8b32a', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"revokeOperator\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xfd4fa05a', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"account\",\"type\":\"address\"}],\"name\":\"getAccountStatus\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_alert_rule`(`rule_name`,`enable`,`alert_type`,`alert_level`,`alert_interval_seconds`,`alert_content`,`content_param_list`,`create_time`,`modify_time`) VALUES ('节点异常告警/Node Exception', 0, 1, 1, 3600, '{nodeId}节点异常，请到“节点管理”页面查看具体信息 / Node: {nodeIdEn} node status exception，please check out in \"Node Management\"', '[\"{nodeId}\", \"{nodeIdEn}\"]', '2019-10-29 20:02:30', '2019-10-29 20:02:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_alert_rule`(`rule_name`,`enable`,`alert_type`,`alert_level`,`alert_interval_seconds`,`alert_content`,`content_param_list`,`create_time`,`modify_time`) VALUES ('审计异常告警/Audit Exception', 0, 2, 1, 3600, '审计异常：{auditType}，请到“交易审计”页面查看具体信息 / Audit alert: {auditTypeEn}，please check out in \"Transaction Audit\"', '[\"{auditType}\", \"{auditTypeEn}\"]', '2019-10-29 20:02:30', '2019-10-29 20:02:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_alert_rule`(`rule_name`,`enable`,`alert_type`,`alert_level`,`alert_interval_seconds`,`alert_content`,`content_param_list`,`create_time`,`modify_time`) VALUES ('证书有效期告警/Cert Validity Exception', 0, 3, 1, 3600, '证书将在{time}过期，请到“证书管理”页面查看具体信息 / Cert validity exception：invalid at {timeEn}，please check out in \"Cert Management\"', '[\"{time}\", \"{timeEn}\"]', '2019-10-29 20:02:30', '2019-10-29 20:02:30');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_mail_server_config`(`server_name`,`host`,`port`,`username`,`password`,`protocol`,`default_encoding`,`create_time`,`modify_time`,`authentication`,`starttls_enable`,`starttls_required`,`socket_factory_port`,`socket_factory_class`,`socket_factory_fallback`,`enable`) VALUES ('Default config', 'smtp.qq.com', '25', 'yourmail@qq.com', 'yourpassword','smtp', 'UTF-8','2019-10-29 20:02:30', '2019-10-29 20:02:30', 1, 1, 0, 465, 'javax.net.ssl.SSLSocketFactory', 0, 0);
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_config`(`config_name`, `config_type`, `config_value`, `create_time`, `modify_time`) VALUES ('docker 镜像版本', 1, 'v2.7.2', '2020-09-22 17:14:23', '2020-09-22 17:14:23');
+[2023-04-14 12:04:06] [INFO] after sql sql_splited:INSERT INTO `tb_app_info` (`app_name`, `app_key`, `app_type`, `app_doc_link`, `app_icon`, `app_desc`, `app_detail`, `create_time`, `modify_time`) VALUES ('WeId-temp', 'app00001', 1, 'https://weidentity.readthedocs.io/zh_CN/latest/docs/deploy-via-web.html', 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFGmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgNzkuMTY0MzUyLCAyMDIwLzAxLzMwLTE1OjUwOjM4ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDMtMThUMTY6NTc6MzQrMDg6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTAzLTE4VDE4OjAyOjAxKzA4OjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTAzLTE4VDE4OjAyOjAxKzA4OjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjg1NDJjNjJlLTZjYTUt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', 'WeIdentity是一套分布式多中心的技术解决方案。', 'WeIdentity目前主要包含两大模块：WeIdentity DID以及WeIdentity Credential。 WeIdentity DID模块在FISCO-BCOS区块链底层平台上实现了一套符合W3C DID规范的分布式多中心的身份标识协议，使实体（人或物）的现实身份实现了链上的身份标识；WeIdentity Credential提供了一整套基于W3C VC规范的解决方案，旨在对这一类数据进行标准化、电子化，生成可验证、可交换的「凭证」（Credential），支持对凭证的属性进行选择性披露，及生成链上存证（Evidence）。', now(), now());
+[2023-04-14 12:04:06] [INFO] start create tables...
+[2023-04-14 12:04:06] [INFO] create sql:SET NAMES utf8mb4
+[2023-04-14 12:04:06] [INFO] create sql:SET FOREIGN_KEY_CHECKS = 0
+[2023-04-14 12:04:06] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_group (    group_id int(11) NOT NULL COMMENT '群组ID',    group_name varchar(64) NOT NULL COMMENT '群组名字',    group_status int(1) DEFAULT '1' COMMENT '状态（1-正常 2-异常 3-脏数据冲突 4-创世块冲突）',    node_count int DEFAULT '0' COMMENT '群组下节点数',    description varchar(1024) DEFAULT NULL COMMENT '群组描述',    group_type int COMMENT '群组类型（1-拉取，2-动态创建）',    group_timestamp varchar(64) COMMENT '群组创世块时间戳',    node_id_list text COMMENT '群组成员节点的ID',    create_time datetime DEFAULT NULL COMMENT '创建时间',    modify_time datetime DEFAULT NULL COMMENT '修改时间',    chain_id int(10) unsigned DEFAULT '0' COMMENT '所属链 ID',    chain_name varchar(64) DEFAULT '' COMMENT '所属链名称，冗余字段',    PRIMARY KEY (group_id),  UNIQUE KEY `unique_chain_id_group_id` (`chain_id`,`group_id`)) COMMENT='群组信息表' ENGINE=InnoDB CHARSET=utf8
+[2023-04-14 12:04:06] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_front (  front_id int(11) NOT NULL AUTO_INCREMENT COMMENT '前置服务编号',  node_id varchar(250) NOT NULL COMMENT '节点编号',  front_ip varchar(16) NOT NULL COMMENT '前置服务ip',  front_port int(11) NOT NULL COMMENT '前置服务端口',  agency varchar(32) NOT NULL COMMENT '所属机构名称',  client_version varchar(32) NOT NULL COMMENT '节点版本（国密/非国密）',  support_version varchar(32) DEFAULT NULL COMMENT '节点兼容版本',  front_version varchar(32) DEFAULT NULL COMMENT '节点前置版本号',  sign_version varchar(32) DEFAULT NULL COMMENT '节点前置对应签名服务版本号',  status int(11) DEFAULT 1 COMMENT '前置服务状态：0，未创建；1，停止；2，启动；',  create_time datetime NOT NULL COMMENT '创建时间',  modify_time datetime NOT NULL COMMENT '修改时间',  run_type tinyint(8) unsigned DEFAULT '0' COMMENT '运行方式：0，命令行；1，Docker',  agency_id int(10) unsigned DEFAULT '0' COMMENT '所属机构 ID',  agency_name varchar(64) DEFAULT '' COMMENT '所属机构名称，冗余字段, 跟 agency 字段相同',  host_id int(10) unsigned DEFAULT '0' COMMENT '所属主机',  host_index int(6) DEFAULT '0' COMMENT '一台主机可能有多个节点。表示在主机中的编号，从 0 开始编号',  image_tag varchar(64) DEFAULT '' COMMENT '运行的镜像版本标签',  container_name varchar(255) DEFAULT '' COMMENT 'Docker 启动的容器名称',  jsonrpc_port int(6) DEFAULT '8545' COMMENT 'jsonrpc 端口',  p2p_port int(6) DEFAULT '30303' COMMENT 'p2p 端口',  channel_port int(6) DEFAULT '20200' COMMENT 'channel 端口',  chain_id int(10) unsigned DEFAULT '0' COMMENT '所属链 ID',  chain_name varchar(64) DEFAULT '' COMMENT '所属链名称，冗余字段',  PRIMARY KEY (`front_id`),  UNIQUE KEY `unique_node_id` (`node_id`),  UNIQUE KEY `unique_ip_port` (`front_ip`,`front_port`),  UNIQUE KEY `unique_agency_id_host_id_front_port` (`agency_id`,`front_ip`,`front_port`)) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COMMENT='前置服务信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_front_group_map (  map_id int(11) NOT NULL AUTO_INCREMENT COMMENT '编号',  front_id int(11) NOT NULL COMMENT '前置服务编号',  group_id int(11) NOT NULL COMMENT '群组编号',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  status int(11) DEFAULT 1 NOT NULL COMMENT '节点（前置）的群组状态，1-normal，2-invalid',  type tinyint(4) DEFAULT 1 COMMENT '节点的共识类型：1-共识节点（默认），2-观察节点',  PRIMARY KEY (map_id),  unique  unique_front_group (front_id,group_id)) ENGINE=InnoDB AUTO_INCREMENT=600001 DEFAULT CHARSET=utf8 COMMENT='前置群组映射表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_node (  node_id varchar(250) NOT NULL  COMMENT '节点编号',  group_id int(11) NOT NULL COMMENT '所属群组编号',  node_name varchar(120) NOT NULL COMMENT '节点名称',  node_ip varchar(16) DEFAULT NULL COMMENT '节点ip',  p2p_port int(11) DEFAULT NULL COMMENT '节点p2p端口',  block_number bigint(20) DEFAULT '0' COMMENT '节点块高',  pbft_view bigint(20) DEFAULT '0' COMMENT 'pbft_view',  node_active int(1) NOT NULL DEFAULT '2' COMMENT '节点存活标识(1存活，2不存活)',  description text DEFAULT NULL COMMENT '描述',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (node_id,group_id)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='节点表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_contract (  contract_id int(11) NOT NULL AUTO_INCREMENT COMMENT '合约编号',  contract_path varchar(128) binary NOT NULL COMMENT '合约所在目录',  contract_name varchar(120) binary NOT NULL COMMENT '合约名称',  contract_version varchar(120) DEFAULT NULL COMMENT '合约版本',  account varchar(50) binary DEFAULT 'admin' COMMENT '关联账号',  group_id int(11) NOT NULL COMMENT '所属群组编号',  contract_source mediumtext COMMENT '合约源码',  contract_abi mediumtext COMMENT '编译合约生成的abi文件内容',  contract_bin mediumtext COMMENT '合约binary',  bytecode_bin mediumtext COMMENT '合约bin',  contract_address varchar(64) DEFAULT NULL COMMENT '合约地址',  deploy_time datetime DEFAULT NULL COMMENT '部署时间',  contract_status int(1) DEFAULT '1' COMMENT '部署状态（1：未部署，2：部署成功，3：部署失败）',  contract_type tinyint(4) DEFAULT '0' COMMENT '合约类型(0-普通合约，1-系统合约，2-应用导入的合约)',  description text COMMENT '描述',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  deploy_address varchar(64) DEFAULT NULL COMMENT '合约部署者地址',  deploy_user_name varchar(64) DEFAULT NULL COMMENT '合约部署者用戶名',  PRIMARY KEY (contract_id),  UNIQUE KEY uk_group_path_name (group_id,contract_path,contract_name,account)) ENGINE=InnoDB AUTO_INCREMENT=200001 DEFAULT CHARSET=utf8 COMMENT='合约表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_method(  method_id varchar(128) COMMENT '方法id',  group_id int(11) NOT NULL COMMENT '所属群组编号',  abi_info text COMMENT 'abi信息',  method_type varchar(32) COMMENT '方法类型',  contract_type tinyint(4) DEFAULT '0' COMMENT '合约类型(0-普通合约，1-系统合约)',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (method_id,group_id)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='方法解析信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_trans_daily (  group_id int(11) NOT NULL COMMENT '所属群组编号',  trans_day date NOT NULL COMMENT '日期',  trans_count int(11) DEFAULT '0' COMMENT '交易数量',  block_number int(11) DEFAULT '0' COMMENT '当前统计到的块高',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (group_id,trans_day)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='每日交易数据表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_user (  user_id int(11) NOT NULL AUTO_INCREMENT COMMENT '用户编号',  user_name varchar(64) binary NOT NULL COMMENT '用户名',  account varchar(50) binary DEFAULT 'admin' COMMENT '关联账号',  group_id int(11) DEFAULT NULL COMMENT '所属群组编号',  public_key varchar(250) NOT NULL COMMENT '公钥',  user_status int(1) NOT NULL DEFAULT '1' COMMENT '状态（1-正常 2-停用）',  user_type int(1) NOT NULL DEFAULT '1' COMMENT '用户类型（1-普通用户 2-系统用户）',  address varchar(64) DEFAULT NULL COMMENT '在链上位置的hash',  sign_user_id varchar(64) DEFAULT NULL COMMENT '签名服务中的user的业务id',  app_id varchar(64) DEFAULT NULL COMMENT '区块链应用的编号',  has_pk int(1) DEFAULT 1 COMMENT '是否拥有私钥信息(1-拥有，2-不拥有)',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  description varchar(250) DEFAULT NULL COMMENT '备注',  PRIMARY KEY (user_id),  UNIQUE KEY unique_name (group_id,user_name,account),  UNIQUE KEY unique_address (group_id,address),  KEY index_address (address),  UNIQUE KEY unique_uuid (sign_user_id)) ENGINE=InnoDB AUTO_INCREMENT=700001 DEFAULT CHARSET=utf8 COMMENT='用户信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_account_info (  account varchar(50) binary NOT NULL COMMENT '系统账号',  account_pwd varchar(250) NOT NULL COMMENT '登录密码',  role_id int(11) NOT NULL COMMENT '所属角色编号',  login_fail_time int(2) NOT NULL DEFAULT '0' COMMENT '登录失败次数,默认0，登录成功归0',  account_status int(1) NOT NULL DEFAULT '1' COMMENT '状态（1-未更新密码 2-正常） 默认1',  description text COMMENT '备注',  email varchar(40) DEFAULT NULL COMMENT '用户邮箱',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (account)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='系统账号信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_role (  role_id int(11) NOT NULL AUTO_INCREMENT COMMENT '角色编号',  role_name varchar(120) DEFAULT NULL COMMENT '角色英文名称',  role_name_zh varchar(120) DEFAULT NULL COMMENT '角色中文名称',  role_status int(1) DEFAULT '1' COMMENT '状态（1-正常2-无效） 默认1',  description text COMMENT '备注',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (role_id),  UNIQUE KEY UK_role_Name (role_name)) ENGINE=InnoDB AUTO_INCREMENT=100000 DEFAULT CHARSET=utf8 COMMENT='角色信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_token (  token varchar(120) NOT NULL PRIMARY KEY COMMENT 'token',  value varchar(50) NOT NULL COMMENT '与token相关的值（如：用户编号，图形验证码值）',  expire_time datetime DEFAULT NULL COMMENT '失效时间',  create_time datetime DEFAULT NULL COMMENT '创建时间') ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='token信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_cert (  finger_print varchar(120) NOT NULL COMMENT '证书的指纹(唯一标记）',  cert_name varchar(60) NOT NULL COMMENT '证书id',  content text NOT NULL COMMENT 'cert(crt证书）的内容',  cert_type varchar(20) NOT NULL COMMENT '证书类型',  public_key varchar(150) DEFAULT NULL COMMENT '节点证书的公钥/编号(nodeid)',  address varchar(50) DEFAULT NULL COMMENT '节点证书的节点地址',  father varchar(120) NOT NULL COMMENT '父证书对应地址(fingerprint)',  validity_from datetime NOT NULL COMMENT '有效期开始',  validity_to datetime NOT NULL COMMENT '有效期截止',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  create_time datetime DEFAULT NULL COMMENT '创建时间',  PRIMARY KEY (finger_print)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='证书信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_alert_rule (  rule_id int(11) NOT NULL AUTO_INCREMENT COMMENT '告警规则的ID',  rule_name varchar(50) NOT NULL COMMENT '告警规则的命名',  enable tinyint(4) DEFAULT 0 NOT NULL COMMENT '是否启用规则, 0:false, 1:true',  alert_type tinyint(4) NOT NULL COMMENT '告警规则的类型, 1-节点, 2-审计, 3-证书',  alert_level tinyint(4) NOT NULL COMMENT '告警规则的级别, 1-高, 2-中, 3-低',  alert_interval_seconds bigint NOT NULL COMMENT '告警规则的间隔时间(s)',  alert_content text NOT NULL COMMENT '告警邮件的内容',  content_param_list text NOT NULL COMMENT '告警邮件内容中的可替代参数，如nodeId',  description varchar(50) DEFAULT NULL COMMENT '告警规则的描述',  is_all_user tinyint(4) DEFAULT 0 COMMENT '是否选中所有用户, 0:false, 1:true',  user_list text DEFAULT NULL COMMENT '告警规则作用的用户列表',  create_time datetime DEFAULT NULL COMMENT '告警规则的创建时间',  modify_time datetime DEFAULT NULL COMMENT '告警规则的修改时间',  less_than varchar(40) DEFAULT NULL COMMENT '告警规则：小于某个值',  less_and_equal varchar(40) DEFAULT NULL COMMENT '告警规则：小于等于某个值',  larger_than varchar(40) DEFAULT NULL COMMENT '告警规则：大于某个值',  larger_and_equal varchar(40) DEFAULT NULL COMMENT '告警规则：大于等于某个值',  equal varchar(40) DEFAULT NULL COMMENT '告警规则：等于某个值',  last_alert_time datetime DEFAULT NULL COMMENT '上次告警的时间，与Interval间隔共同作用',  PRIMARY KEY (rule_id)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='告警规则表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_mail_server_config (  server_id int(11) NOT NULL AUTO_INCREMENT COMMENT '邮件服务器配置的ID',  server_name varchar(40) NOT NULL COMMENT '邮件服务器配置的命名',  host varchar(30) NOT NULL COMMENT '邮件服务器的主机',  port int(10) DEFAULT '25' NOT NULL COMMENT '邮件服务器的端口',  username varchar(40) NOT NULL COMMENT '邮件服务器的邮箱地址',  password varchar(40) NOT NULL COMMENT '邮件服务器的邮箱授权码',  protocol varchar(10) NOT NULL COMMENT '邮件服务器的协议',  default_encoding varchar(10) DEFAULT 'UTF-8' NOT NULL COMMENT '邮件服务器的默认编码(UTF-8)',  create_time datetime DEFAULT NULL COMMENT '邮件服务器配置的创建时间',  modify_time datetime DEFAULT NULL COMMENT '邮件服务器配置的修改时间',  authentication tinyint(4) DEFAULT 1 NOT NULL COMMENT '是否开启验证, 0:false, 1:true',  starttls_enable tinyint(4) DEFAULT 1 NOT NULL COMMENT '如支持，是否优先选用STARTTLS, 0:false, 1:true',  starttls_required tinyint(4) DEFAULT 0 COMMENT '是否必须使用STARTTLS, 0:false, 1:true',  socket_factory_port int(10) DEFAULT 465 COMMENT 'SSL的端口',  socket_factory_class varchar(150) DEFAULT 'javax.net.ssl.SSLSocketFactory' COMMENT 'SSL选用的JAVA类',  socket_factory_fallback tinyint(4) DEFAULT 0 COMMENT '是否启用SSL的fallback, 0:false, 1:true',  enable tinyint(4) DEFAULT 0 NOT NULL COMMENT '邮件服务器是否已配置完成，0初始，1完成',  connection_timeout int(10) DEFAULT 5000 NOT NULL COMMENT '邮件服务器的连接超时值',  timeout int(10) DEFAULT 5000 NOT NULL COMMENT '邮件服务器的通用超时值',  write_timeout int(10) DEFAULT 5000 NOT NULL COMMENT '邮件服务器的写超时值',  PRIMARY KEY (server_id)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='邮件服务器配置表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_alert_log (  log_id int(11) NOT NULL AUTO_INCREMENT COMMENT '告警日志的编号',  alert_type tinyint(4) NOT NULL COMMENT '告警日志的类型, 1-节点, 2-审计, 3-证书',  alert_level tinyint(4) NOT NULL COMMENT '告警日志的告警等级：1-high, 2-middle, 3-low',  alert_content text NOT NULL COMMENT '告警日志的内容',  description text DEFAULT NULL COMMENT '告警日志的描述',  status tinyint(4) NOT NULL DEFAULT '0' COMMENT '告警日志的状态：0-未处理，1-已处理',  create_time datetime DEFAULT NULL COMMENT '告警日志的创建时间',  modify_time datetime DEFAULT NULL COMMENT '告警日志的修改时间',  PRIMARY KEY (log_id)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='告警日志表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_abi (  abi_id int(11) NOT NULL AUTO_INCREMENT COMMENT '合约ABI的编号',  account varchar(50) binary DEFAULT 'admin' COMMENT '关联账号',  group_id int(11) NOT NULL COMMENT '合约ABI所属群组的编号',  contract_name varchar(120) NOT NULL COMMENT '合约ABI的合约名',  contract_address varchar(64) NOT NULL COMMENT '合约ABI的合约地址',  contract_abi mediumtext NOT NULL COMMENT '合约ABI的内容',  contract_bin mediumtext NOT NULL COMMENT '合约ABI的runtime-bin',  create_time datetime DEFAULT NULL COMMENT '合约ABI的创建时间',  modify_time datetime DEFAULT NULL COMMENT '合约ABI的修改时间',  PRIMARY KEY (abi_id),  UNIQUE KEY unique_address (group_id,account,contract_address)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='合约ABI表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS `tb_agency` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '自增长 ID',  `agency_name` varchar(64) NOT NULL COMMENT '机构名称',  `agency_desc` varchar(1024) DEFAULT '' COMMENT '机构描述信息',  `chain_id` int(10) unsigned NOT NULL DEFAULT '0' COMMENT '所属链 ID',  `chain_name` varchar(64) DEFAULT '' COMMENT '所属链名称，冗余字段',  `create_time` datetime NOT NULL COMMENT '创建时间',  `modify_time` datetime NOT NULL COMMENT '最近一次更新时间',  PRIMARY KEY (`id`),  UNIQUE KEY `uniq_chain_id_agency_name` (`chain_id`,`agency_name`) USING BTREE) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='机构信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS `tb_chain` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '自增长 ID',  `chain_name` varchar(64) NOT NULL COMMENT '链名称',  `chain_desc` varchar(1024) DEFAULT NULL COMMENT '链描述信息',  `version` varchar(64) NOT NULL DEFAULT '' COMMENT '创建链时选择的镜像版本',  `encrypt_type` tinyint(8) unsigned NOT NULL DEFAULT '1' COMMENT '加密类型：1，标密；2，国密；默认 1 ',  `chain_status` tinyint(8) unsigned NOT NULL DEFAULT '0' COMMENT '链状态：0，初始化；1，部署中；2，部署失败；3，部署成功等等',  `webase_sign_addr` varchar(255) NOT NULL DEFAULT '127.0.0.1:5004' COMMENT 'WeBASE-Sign 的访问地址',  `create_time` datetime NOT NULL COMMENT '创建时间',  `modify_time` datetime NOT NULL COMMENT '最近一次更新时间',  `run_type` tinyint(8) unsigned DEFAULT '0' COMMENT '运行方式：0，命令行；1，Docker',  PRIMARY KEY (`id`),  UNIQUE KEY `uniq_chain_name` (`chain_name`) USING BTREE) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='链信息表'
+[2023-04-14 12:04:07] [INFO] create sql:CREATE TABLE IF NOT EXISTS `tb_config` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '自增长 ID',  `config_name` varchar(64) NOT NULL COMMENT '配置名称',  `config_type` int(10) NOT NULL DEFAULT '0' COMMENT '配置类型',  `config_value` varchar(512) NOT NULL DEFAULT '' COMMENT '配置值',  `create_time` datetime NOT NULL COMMENT '创建时间',  `modify_time` datetime NOT NULL COMMENT '最近一次更新时间',  PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='系统配置信息表'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS `tb_host` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '自增长 ID',  `ip` varchar(16) NOT NULL COMMENT '主机IP',  `root_dir` varchar(255) NOT NULL DEFAULT '/opt/fisco-bcos' COMMENT '主机存放节点配置文件的根目录，可能存放多个节点配置',  `status` tinyint(8) unsigned NOT NULL DEFAULT '0' COMMENT '主机状态：0，新建；1，初始化；2，运行等等',  `remark` text DEFAULT NULL COMMENT 'remark',  `create_time` datetime NOT NULL COMMENT '创建时间',  `modify_time` datetime NOT NULL COMMENT '最近一次更新时间',  PRIMARY KEY (`id`),  UNIQUE KEY `unique_ip` (`ip`) USING BTREE) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='物理主机信息'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_govern_vote (  id int(11) unsigned NOT NULL AUTO_INCREMENT COMMENT '链治理委员投票记录ID',  group_id int(11) NOT NULL COMMENT '群组ID',  time_limit bigint DEFAULT NULL COMMENT '投票截止块高',  from_address varchar(64) NOT NULL COMMENT '管理员地址',  type tinyint(8) NOT NULL COMMENT '投票类型，1-选举，2-去除，3-修改委员权重，4,-修改阈值',  to_address varchar(64) DEFAULT NULL COMMENT '选举/去除的地址',  detail varchar(64) DEFAULT NULL COMMENT '3-修改权重，4-修改阈值时存储具体信息',  create_time datetime NOT NULL COMMENT '创建时间',  modify_time datetime NOT NULL COMMENT '最近一次更新时间',  PRIMARY KEY (id)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='链治理委员投票信息'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_contract_path (  id int(11) NOT NULL AUTO_INCREMENT COMMENT '合约路径编号',  contract_path varchar(128) binary NOT NULL COMMENT '合约所在目录',  group_id int(11) NOT NULL COMMENT '所属群组编号',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (id),  UNIQUE KEY uk_group_path_name (group_id,contract_path)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='合约路径表'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_cns (  id int(11) NOT NULL AUTO_INCREMENT COMMENT '编号',  group_id int(11) NOT NULL COMMENT '群组ID',  contract_path varchar(128) binary DEFAULT NULL COMMENT '合约所在目录',  contract_name varchar(120) binary NOT NULL COMMENT '合约名称',  cns_name varchar(120) binary NOT NULL COMMENT 'cns名称',  version varchar(120) NOT NULL COMMENT 'cns版本',  contract_address varchar(64) NOT NULL COMMENT '合约地址',  contract_abi mediumtext NOT NULL COMMENT '合约abi内容',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (id),  UNIQUE KEY uk_version (group_id,cns_name,version)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='cns信息表'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_stat (  id int(11) NOT NULL AUTO_INCREMENT COMMENT '统计编号',  group_id int(11) NOT NULL COMMENT '所属群组编号',  block_cycle double DEFAULT '0' COMMENT '出块周期（秒）',  tps int(11) DEFAULT '0' COMMENT '每秒交易量',  block_number int(11) DEFAULT '0' COMMENT '当前统计到的块高度',  block_size int(11) DEFAULT '0' COMMENT '块大小(交易数量)',  stat_timestamp varchar(64) COMMENT '记录时间戳',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (id),  UNIQUE KEY uk_block (group_id,block_number),  KEY index_group (group_id)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='区块统计数据表'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_external_account (  id int(11) NOT NULL AUTO_INCREMENT COMMENT '外部账户编号',  group_id int(11) DEFAULT NULL COMMENT '所属群组编号',  address varchar(64) DEFAULT NULL COMMENT '在链上位置的hash',  public_key varchar(250) DEFAULT NULL COMMENT '公钥',  sign_user_id varchar(64) DEFAULT NULL COMMENT '签名服务中的user的业务id',  has_pk int(1) DEFAULT 1 COMMENT '是否拥有私钥信息(1-拥有，2-不拥有)',  user_name varchar(64) binary DEFAULT NULL COMMENT '用户名',  user_status int(1) DEFAULT NULL DEFAULT '1' COMMENT '状态（1-正常 2-停用）',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  description varchar(250) DEFAULT NULL COMMENT '备注',  app_id varchar(64) DEFAULT NULL COMMENT '区块链应用的编号',  PRIMARY KEY (id),  UNIQUE KEY unique_name (group_id,user_name),  UNIQUE KEY unique_address (group_id,address),  KEY index_address (address),  UNIQUE KEY unique_uuid (sign_user_id)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='外部账户信息表'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_external_contract (  id int(11) NOT NULL AUTO_INCREMENT COMMENT '外部合约编号',  group_id int(11) NOT NULL COMMENT '所属群组编号',  contract_address varchar(64) NOT NULL COMMENT '合约地址',  deploy_address varchar(64) NOT NULL COMMENT '合约部署者地址',  deploy_tx_hash varchar(120) NOT NULL COMMENT '合约部署的交易哈希',  deploy_time datetime NOT NULL COMMENT '部署时间',  contract_bin mediumtext DEFAULT NULL COMMENT '合约链上binary',  contract_status int(1) DEFAULT '1' COMMENT '部署状态（1：未部署，2：部署成功，3：部署失败）',  contract_type tinyint(4) DEFAULT '0' COMMENT '合约类型(0-普通合约，1-系统合约)',  contract_name varchar(120) binary DEFAULT NULL COMMENT '合约名称',  contract_version varchar(120) DEFAULT NULL COMMENT '合约版本',  contract_abi mediumtext COMMENT '编译合约生成的abi文件内容',  bytecode_bin mediumtext COMMENT '合约bin',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  description text COMMENT '描述',  PRIMARY KEY (id),  UNIQUE KEY uk_group_path_name (group_id,contract_address)) ENGINE=InnoDB AUTO_INCREMENT=800001 DEFAULT CHARSET=utf8 COMMENT='外部合约表'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_app_info (  id int(11) NOT NULL AUTO_INCREMENT COMMENT '自增编号',  app_name varchar(128) NOT NULL COMMENT '应用名',  app_key varchar(16) NOT NULL COMMENT '应用Key',  app_secret varchar(32) DEFAULT NULL COMMENT '应用密码',  app_type int(1) NOT NULL DEFAULT '2' COMMENT '应用类型(1模板，2新建)',  app_status int(1) NOT NULL DEFAULT '2' COMMENT '应用状态(1存活，2不存活)',  app_doc_link varchar(256) DEFAULT NULL COMMENT '应用文档链接',  app_link varchar(256) DEFAULT NULL COMMENT '应用链接',  app_ip varchar(16) DEFAULT NULL COMMENT '应用ip',  app_port int(11) DEFAULT NULL COMMENT '应用端口',  app_icon mediumtext DEFAULT NULL COMMENT '应用图标',  app_desc varchar(1024) DEFAULT NULL COMMENT '应用描述',  app_detail text DEFAULT NULL COMMENT '应用详情',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (id),  UNIQUE KEY uk_key (app_key),  KEY uk_name (app_name)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='应用信息表'
+[2023-04-14 12:04:08] [INFO] create sql:CREATE TABLE IF NOT EXISTS tb_contract_store (  id int(11) NOT NULL AUTO_INCREMENT COMMENT '自增编号',  app_key varchar(16) NOT NULL COMMENT '所属应用Key',  contract_name varchar(120) binary NOT NULL COMMENT '合约名称',  contract_version varchar(120) NOT NULL COMMENT '合约版本',  contract_source mediumtext COMMENT '合约源码',  contract_abi mediumtext COMMENT '编译合约生成的abi文件内容',  bytecode_bin mediumtext COMMENT '合约bytecodeBin',  account varchar(50) binary DEFAULT 'admin' COMMENT '关联账号',  create_time datetime DEFAULT NULL COMMENT '创建时间',  modify_time datetime DEFAULT NULL COMMENT '修改时间',  PRIMARY KEY (id),  UNIQUE KEY uk_version (app_key,contract_name,contract_version)) ENGINE=InnoDB AUTO_INCREMENT=300001 DEFAULT CHARSET=utf8 COMMENT='应用合约仓库'
+[2023-04-14 12:04:08] [INFO] create sql:SET FOREIGN_KEY_CHECKS = 1
+[2023-04-14 12:04:08] [INFO] start init default data of tables...
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO tb_account_info (account,account_pwd,role_id,create_time,modify_time)values('admin', '$2a$10$F/aEB1iEx/FvVh0fMn6L/uyy.PkpTy8Kd9EdbqLGo7Bw7eCivpq.m',100000,now(),now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_role` (role_name,role_name_zh,create_time,modify_time)VALUES ('admin', '管理员', now(), now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_role` (role_name,role_name_zh,create_time,modify_time)VALUES ('visitor', '普通用户', now(), now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_role` (role_name,role_name_zh,create_time,modify_time)VALUES ('developer', '开发者', now(), now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xbd291aef', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"value\",\"type\":\"string\"}],\"name\":\"setValueByKey\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x56004b6a', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"valueField\",\"type\":\"string\"}],\"name\":\"createTable\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xf23f63c9', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"\",\"type\":\"string\"}],\"name\":\"openTable\",\"outputs\":[{\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x2dca76c1', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"entry\",\"type\":\"string\"},{\"name\":\"condition\",\"type\":\"string\"},{\"name\":\"optional\",\"type\":\"string\"}],\"name\":\"update\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x983c6c4f', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"condition\",\"type\":\"string\"},{\"name\":\"optional\",\"type\":\"string\"}],\"name\":\"select\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xa72a1e65', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"tableName\",\"type\":\"string\"},{\"name\":\"key\",\"type\":\"string\"},{\"name\":\"condition\",\"type\":\"string\"},{\"name\":\"optional\",\"type\":\"string\"}],\"name\":\"remove\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xa216464b', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"name\",\"type\":\"string\"},{\"name\":\"version\",\"type\":\"string\"},{\"name\":\"addr\",\"type\":\"string\"},{\"name\":\"abi\",\"type\":\"string\"}],\"name\":\"insert\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-06-17 20:32:30', '2019-06-17 20:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x2800efc0', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"nodeID\",\"type\":\"string\"}],\"name\":\"addObserver\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x89152d1f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"nodeID\",\"type\":\"string\"}],\"name\":\"addSealer\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x80599e4b', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"nodeID\",\"type\":\"string\"}],\"name\":\"remove\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x819a3d62', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"name\",\"type\":\"string\"}],\"name\":\"selectByName\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-06-17 20:32:30', '2019-06-17 20:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x897f0251', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"name\",\"type\":\"string\"},{\"name\":\"version\",\"type\":\"string\"}],\"name\":\"selectByNameAndVersion\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-06-17 20:32:30', '2019-06-17 20:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x06e63ff8', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"table_name\",\"type\":\"string\"},{\"name\":\"addr\",\"type\":\"string\"}],\"name\":\"insert\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x20586031', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"table_name\",\"type\":\"string\"}],\"name\":\"queryByName\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x44590a7e', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"table_name\",\"type\":\"string\"},{\"name\":\"addr\",\"type\":\"string\"}],\"name\":\"remove\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2019-09-02 16:32:30', '2019-09-02 16:32:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x96ec37c4', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"grantWrite\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x99c26010', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"revokeWrite\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x30ccebb5', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"getStatus\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"},{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x45c8b1a6', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"unfreeze\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x8d1fdf2f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"freeze\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xa721fb43', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"userAddr\",\"type\":\"address\"}],\"name\":\"grantManager\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xbc92a700', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"addr\",\"type\":\"address\"}],\"name\":\"queryManager\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"},{\"name\":\"\",\"type\":\"address[]\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x3a67288f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"contractAddr\",\"type\":\"address\"},{\"name\":\"userAddr\",\"type\":\"address\"}],\"name\":\"revokeManager\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, now(), now());
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x039a93ca', 0, '{\"constant\":true,\"inputs\":[],\"name\":\"listOperators\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x246c3376', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"},{\"name\":\"weight\",\"type\":\"int256\"}],\"name\":\"updateCommitteeMemberWeight\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x281af27d', 0, '{\"constant\":true,\"inputs\":[],\"name\":\"queryThreshold\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x6c147119', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"queryCommitteeMemberWeight\",\"outputs\":[{\"name\":\"\",\"type\":\"bool\"},{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x6f8f521f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"grantCommitteeMember\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x788649ea', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"account\",\"type\":\"address\"}],\"name\":\"unfreezeAccount\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x885a3a72', 0, '{\"constant\":true,\"inputs\":[],\"name\":\"listCommitteeMembers\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0x97b00861', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"threshold\",\"type\":\"int256\"}],\"name\":\"updateThreshold\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xcafb4d1b', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"revokeCommitteeMember\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xe348da13', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"grantOperator\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xf26c159f', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"account\",\"type\":\"address\"}],\"name\":\"freezeAccount\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xfad8b32a', 0, '{\"constant\":false,\"inputs\":[{\"name\":\"user\",\"type\":\"address\"}],\"name\":\"revokeOperator\",\"outputs\":[{\"name\":\"\",\"type\":\"int256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_method`(`method_id`, `group_id`, `abi_info`, `method_type`, `contract_type`, `create_time`, `modify_time`) VALUES ('0xfd4fa05a', 0, '{\"constant\":true,\"inputs\":[{\"name\":\"account\",\"type\":\"address\"}],\"name\":\"getAccountStatus\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}', 'function', 1, '2020-08-03 19:44:30', '2020-08-03 19:44:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_alert_rule`(`rule_name`,`enable`,`alert_type`,`alert_level`,`alert_interval_seconds`,`alert_content`,`content_param_list`,`create_time`,`modify_time`) VALUES ('节点异常告警/Node Exception', 0, 1, 1, 3600, '{nodeId}节点异常，请到“节点管理”页面查看具体信息 / Node: {nodeIdEn} node status exception，please check out in \"Node Management\"', '[\"{nodeId}\", \"{nodeIdEn}\"]', '2019-10-29 20:02:30', '2019-10-29 20:02:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_alert_rule`(`rule_name`,`enable`,`alert_type`,`alert_level`,`alert_interval_seconds`,`alert_content`,`content_param_list`,`create_time`,`modify_time`) VALUES ('审计异常告警/Audit Exception', 0, 2, 1, 3600, '审计异常：{auditType}，请到“交易审计”页面查看具体信息 / Audit alert: {auditTypeEn}，please check out in \"Transaction Audit\"', '[\"{auditType}\", \"{auditTypeEn}\"]', '2019-10-29 20:02:30', '2019-10-29 20:02:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_alert_rule`(`rule_name`,`enable`,`alert_type`,`alert_level`,`alert_interval_seconds`,`alert_content`,`content_param_list`,`create_time`,`modify_time`) VALUES ('证书有效期告警/Cert Validity Exception', 0, 3, 1, 3600, '证书将在{time}过期，请到“证书管理”页面查看具体信息 / Cert validity exception：invalid at {timeEn}，please check out in \"Cert Management\"', '[\"{time}\", \"{timeEn}\"]', '2019-10-29 20:02:30', '2019-10-29 20:02:30');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_mail_server_config`(`server_name`,`host`,`port`,`username`,`password`,`protocol`,`default_encoding`,`create_time`,`modify_time`,`authentication`,`starttls_enable`,`starttls_required`,`socket_factory_port`,`socket_factory_class`,`socket_factory_fallback`,`enable`) VALUES ('Default config', 'smtp.qq.com', '25', 'yourmail@qq.com', 'yourpassword','smtp', 'UTF-8','2019-10-29 20:02:30', '2019-10-29 20:02:30', 1, 1, 0, 465, 'javax.net.ssl.SSLSocketFactory', 0, 0);
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_config`(`config_name`, `config_type`, `config_value`, `create_time`, `modify_time`) VALUES ('docker 镜像版本', 1, 'v2.7.2', '2020-09-22 17:14:23', '2020-09-22 17:14:23');
+[2023-04-14 12:04:08] [INFO] init sql:INSERT INTO `tb_app_info` (`app_name`, `app_key`, `app_type`, `app_doc_link`, `app_icon`, `app_desc`, `app_detail`, `create_time`, `modify_time`) VALUES ('WeId-temp', 'app00001', 1, 'https://weidentity.readthedocs.io/zh_CN/latest/docs/deploy-via-web.html', 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFGmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgNzkuMTY0MzUyLCAyMDIwLzAxLzMwLTE1OjUwOjM4ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDMtMThUMTY6NTc6MzQrMDg6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTAzLTE4VDE4OjAyOjAxKzA4OjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTAzLTE4VDE4OjAyOjAxKzA4OjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjg1NDJjNjJlLTZjYTUt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', 'WeIdentity是一套分布式多中心的技术解决方案。', 'WeIdentity目前主要包含两大模块：WeIdentity DID以及WeIdentity Credential。 WeIdentity DID模块在FISCO-BCOS区块链底层平台上实现了一套符合W3C DID规范的分布式多中心的身份标识协议，使实体（人或物）的现实身份实现了链上的身份标识；WeIdentity Credential提供了一整套基于W3C VC规范的解决方案，旨在对这一类数据进行标准化、电子化，生成可验证、可交换的「凭证」（Credential），支持对凭证的属性进行选择性披露，及生成链上存证（Evidence）。', now(), now());
+[2023-04-14 12:04:08] [INFO] init mgr tables success!
+[2023-04-14 12:04:08] [INFO]  installManager initDbEnable True
+[2023-04-14 12:04:08] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:08] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:08] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:04:08] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:04:08] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:04:08] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:04:08] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:04:09] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:04:09] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 12:04:09] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.node.mgr.Application Port 5001 ...PID(993) [Starting]. Please message check through the log file (default path:./log/).
+===============================================================================================
+[2023-04-14 12:04:14] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:14] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:14] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:17] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:17] [INFO]  execute cmd  start ,cmd : unzip -o webase-web.zip
+[2023-04-14 12:04:19] [INFO]  execute cmd  end ,cmd : unzip -o webase-web.zip,status :0 , output: Archive:  webase-web.zip
+   creating: webase-web/
+  inflating: webase-web/index.html   
+ extracting: webase-web/release_note.txt  
+   creating: webase-web/static/
+   creating: webase-web/static/css/
+  inflating: webase-web/static/css/base.css  
+  inflating: webase-web/static/css/reset.css  
+   creating: webase-web/static/font/
+   creating: webase-web/static/fonts/
+  inflating: webase-web/static/fonts/element-icons.535877f.woff  
+  inflating: webase-web/static/fonts/element-icons.732389d.ttf  
+  inflating: webase-web/static/fonts/iconfont.8ddfca3.eot  
+  inflating: webase-web/static/fonts/iconfont.ee39531.ttf  
+  inflating: webase-web/static/font/webfont.eot  
+  inflating: webase-web/static/font/webfont.svg  
+  inflating: webase-web/static/font/webfont.ttf  
+  inflating: webase-web/static/font/webfont.woff  
+ extracting: webase-web/static/font/webfont.woff2  
+   creating: webase-web/static/image/
+  inflating: webase-web/static/image/add-front.png  
+  inflating: webase-web/static/image/add-host.png  
+  inflating: webase-web/static/image/add-node.png  
+  inflating: webase-web/static/image/add-user.png  
+ extracting: webase-web/static/image/artboard.png  
+  inflating: webase-web/static/image/banner-1.jpg  
+  inflating: webase-web/static/image/banner.jpg  
+  inflating: webase-web/static/image/banner.png  
+  inflating: webase-web/static/image/create-contract.png  
+  inflating: webase-web/static/image/guide.69e4d090.png  
+  inflating: webase-web/static/image/host.png  
+  inflating: webase-web/static/image/logo-2 copy@1.5x.jpg  
+  inflating: webase-web/static/image/logo-title.png  
+ extracting: webase-web/static/image/logo.jpg  
+ extracting: webase-web/static/image/logo@2x.png  
+  inflating: webase-web/static/image/node1.png  
+  inflating: webase-web/static/image/node2.png  
+  inflating: webase-web/static/image/s-right-1.png  
+ extracting: webase-web/static/image/s-right.png  
+ extracting: webase-web/static/image/webase_logo.png  
+   creating: webase-web/static/img/
+  inflating: webase-web/static/img/add-front.1b122a1.png  
+  inflating: webase-web/static/img/add-user.3ef8100.png  
+  inflating: webase-web/static/img/banner.a935fac.png  
+  inflating: webase-web/static/img/create-contract.9e4b72d.png  
+  inflating: webase-web/static/img/guide.69e4d090.69e4d09.png  
+  inflating: webase-web/static/img/iconfont.7fa1e8d.svg  
+   creating: webase-web/static/js/
+  inflating: webase-web/static/js/0.3a646eddac1df23a7909.js  
+ extracting: webase-web/static/js/0.3a646eddac1df23a7909.js.gz  
+  inflating: webase-web/static/js/1.fc72d643ad7a984909ea.js  
+ extracting: webase-web/static/js/1.fc72d643ad7a984909ea.js.gz  
+  inflating: webase-web/static/js/10.0a5f3930596a50bdca8f.js  
+ extracting: webase-web/static/js/10.0a5f3930596a50bdca8f.js.gz  
+  inflating: webase-web/static/js/11.9fe032911e8c95a91d3d.js  
+  inflating: webase-web/static/js/12.912e3321bf8f9e7e2e97.js  
+  inflating: webase-web/static/js/13.39d09692b505d48db385.js  
+  inflating: webase-web/static/js/14.b0585de1dbc447239b69.js  
+  inflating: webase-web/static/js/15.380a3efdbaaffd84707c.js  
+  inflating: webase-web/static/js/16.4acf287c73c6e86d263c.js  
+  inflating: webase-web/static/js/17.354bfbee771f432ca2c1.js  
+  inflating: webase-web/static/js/18.576238f9978a7d110755.js  
+  inflating: webase-web/static/js/19.3ecdd91495aee83f5341.js  
+  inflating: webase-web/static/js/2.75a24293d231d0232b11.js  
+ extracting: webase-web/static/js/2.75a24293d231d0232b11.js.gz  
+  inflating: webase-web/static/js/20.ab9191669773715115f8.js  
+  inflating: webase-web/static/js/21.76d5c0dbfd266f9ce6c3.js  
+  inflating: webase-web/static/js/3.a6c0a397d138637bcca4.js  
+ extracting: webase-web/static/js/3.a6c0a397d138637bcca4.js.gz  
+  inflating: webase-web/static/js/5.1529dbddc9653f1e7389.js  
+  inflating: webase-web/static/js/5.1529dbddc9653f1e7389.js.gz  
+  inflating: webase-web/static/js/6.549a15df7c8dd0cb2a5f.js  
+ extracting: webase-web/static/js/6.549a15df7c8dd0cb2a5f.js.gz  
+  inflating: webase-web/static/js/7.7cd4312f9dac15e656a2.js  
+ extracting: webase-web/static/js/7.7cd4312f9dac15e656a2.js.gz  
+  inflating: webase-web/static/js/8.657ce4b928b42ab9267a.js  
+ extracting: webase-web/static/js/8.657ce4b928b42ab9267a.js.gz  
+  inflating: webase-web/static/js/9.ef31fc7824fd006a84dd.js  
+  inflating: webase-web/static/js/base-loading.js  
+  inflating: webase-web/static/js/runtime.1084a4f90c817b5df221.js  
+  inflating: webase-web/static/js/v0.4.24-gm.js  
+  inflating: webase-web/static/js/v0.4.24-gm.js.gz  
+  inflating: webase-web/static/js/v0.4.25.js  
+  inflating: webase-web/static/js/v0.4.25.js.gz  
+  inflating: webase-web/static/js/v0.5.1-gm.js  
+  inflating: webase-web/static/js/v0.5.1-gm.js.gz  
+  inflating: webase-web/static/js/v0.5.1.js  
+  inflating: webase-web/static/js/v0.5.1.js.gz  
+  inflating: webase-web/static/js/v0.6.10-gm.js  
+  inflating: webase-web/static/js/v0.6.10-gm.js.gz  
+  inflating: webase-web/static/js/v0.6.10.js  
+  inflating: webase-web/static/js/v0.6.10.js.gz  
+  inflating: webase-web/static/js/web3.min.js  
+  inflating: webase-web/static/js/web3.min.js.gz  
+[2023-04-14 12:04:19] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:19] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:19] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:19] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:19] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:19] [INFO]  execute cmd  start ,cmd : unzip -o webase-web-mobile.zip
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : unzip -o webase-web-mobile.zip,status :0 , output: Archive:  webase-web-mobile.zip
+   creating: webase-web-mobile/
+  inflating: webase-web-mobile/7fa1e8d7912867f557a1734cbaa0ddf1.svg  
+  inflating: webase-web-mobile/favicon.ico  
+  inflating: webase-web-mobile/index.html  
+ extracting: webase-web-mobile/release_note.txt  
+   creating: webase-web-mobile/static/
+   creating: webase-web-mobile/static/css/
+  inflating: webase-web-mobile/static/css/app.2c9c3c60.css  
+ extracting: webase-web-mobile/static/css/app.2c9c3c60.css.gz  
+ extracting: webase-web-mobile/static/css/chunk-05adb75d.83d53b68.css  
+  inflating: webase-web-mobile/static/css/chunk-09332649.322419bf.css  
+  inflating: webase-web-mobile/static/css/chunk-1c074c02.1d45035e.css  
+  inflating: webase-web-mobile/static/css/chunk-6d583236.1fe63a1b.css  
+  inflating: webase-web-mobile/static/css/chunk-9969ad12.13702478.css  
+  inflating: webase-web-mobile/static/css/chunk-abf020ce.06558ccd.css  
+  inflating: webase-web-mobile/static/css/chunk-bdcb4512.dc891bae.css  
+  inflating: webase-web-mobile/static/css/chunk-ce519f2e.4a5db48a.css  
+  inflating: webase-web-mobile/static/css/chunk-e52b798e.2bd20b38.css  
+  inflating: webase-web-mobile/static/css/vendors~app.b2910217.css  
+ extracting: webase-web-mobile/static/css/vendors~app.b2910217.css.gz  
+   creating: webase-web-mobile/static/fonts/
+  inflating: webase-web-mobile/static/fonts/iconfont.139476c4.woff  
+  inflating: webase-web-mobile/static/fonts/iconfont.8ddfca39.eot  
+  inflating: webase-web-mobile/static/fonts/iconfont.ee39531e.ttf  
+   creating: webase-web-mobile/static/img/
+ extracting: webase-web-mobile/static/img/store-new.9ed79eb9.png  
+   creating: webase-web-mobile/static/js/
+  inflating: webase-web-mobile/static/js/app.73e5b6d3.js  
+ extracting: webase-web-mobile/static/js/app.73e5b6d3.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-05adb75d.eb4ecce1.js  
+  inflating: webase-web-mobile/static/js/chunk-05b65032.15c04045.js  
+  inflating: webase-web-mobile/static/js/chunk-09332649.f68a8a46.js  
+ extracting: webase-web-mobile/static/js/chunk-09332649.f68a8a46.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-1c074c02.e8575a74.js  
+ extracting: webase-web-mobile/static/js/chunk-1c074c02.e8575a74.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-2c458ad4.82da2f84.js  
+ extracting: webase-web-mobile/static/js/chunk-2c458ad4.82da2f84.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-44c7dc68.40705eab.js  
+ extracting: webase-web-mobile/static/js/chunk-44c7dc68.40705eab.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-4f319cbb.1effcc00.js  
+  inflating: webase-web-mobile/static/js/chunk-50b20da8.d23ed26e.js  
+ extracting: webase-web-mobile/static/js/chunk-50b20da8.d23ed26e.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-518b6ed0.d6e9144a.js  
+ extracting: webase-web-mobile/static/js/chunk-518b6ed0.d6e9144a.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-6a5848ce.190ef5db.js  
+  inflating: webase-web-mobile/static/js/chunk-6a5848ce.190ef5db.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-6d583236.f020ffb0.js  
+  inflating: webase-web-mobile/static/js/chunk-8866be74.1e11ad45.js  
+ extracting: webase-web-mobile/static/js/chunk-8866be74.1e11ad45.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-9794bc04.ee582762.js  
+ extracting: webase-web-mobile/static/js/chunk-9794bc04.ee582762.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-9969ad12.542d1369.js  
+  inflating: webase-web-mobile/static/js/chunk-abf020ce.797277ab.js  
+  inflating: webase-web-mobile/static/js/chunk-b470ecf0.ca686e52.js  
+ extracting: webase-web-mobile/static/js/chunk-b470ecf0.ca686e52.js.gz  
+  inflating: webase-web-mobile/static/js/chunk-bdcb4512.9b3913c2.js  
+  inflating: webase-web-mobile/static/js/chunk-ce519f2e.239a1c6a.js  
+  inflating: webase-web-mobile/static/js/chunk-e52b798e.f01d4065.js  
+  inflating: webase-web-mobile/static/js/vendors~app.9e964ce7.js  
+ extracting: webase-web-mobile/static/js/vendors~app.9e964ce7.js.gz  
+[2023-04-14 12:04:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:20] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:20] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : cp -f /home/loveqq/fisco/webase-deploy/comm/nginx.conf /home/loveqq/fisco/webase-deploy/comm/temp.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : cp -f /home/loveqq/fisco/webase-deploy/comm/nginx.conf /home/loveqq/fisco/webase-deploy/comm/temp.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:20] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/webase-web/log
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/webase-web/log,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s/5000/5000/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s/5000/5000/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s:log_path:/home/loveqq/fisco/webase-deploy/webase-web/log:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s:log_path:/home/loveqq/fisco/webase-deploy/webase-web/log:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s:pid_file:/home/loveqq/fisco/webase-deploy/nginx-webase-web.pid:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s:pid_file:/home/loveqq/fisco/webase-deploy/nginx-webase-web.pid:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s:web_page_url:/home/loveqq/fisco/webase-deploy/webase-web:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s:web_page_url:/home/loveqq/fisco/webase-deploy/webase-web:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s:phone_page_url:/home/loveqq/fisco/webase-deploy/webase-web-mobile:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s:phone_page_url:/home/loveqq/fisco/webase-deploy/webase-web-mobile:g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : which nginx
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -t 
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -t ,status :0 , output: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sed -i "s/include .*\/mime.types/include \/etc\/nginx\/mime.types/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sed -i "s/include .*\/mime.types/include \/etc\/nginx\/mime.types/g" /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/webase-web/log
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/webase-web/log,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : which nginx
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2023-04-14 12:04:20] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -c /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:04:20] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -c /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:04:20] [INFO]  initFrontForMgr initDbEnable: True
+[2023-04-14 12:04:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:20] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:20] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]  initFrontForMgr frontEnable True
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:25] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:25] [INFO] INSERT INTO tb_front (node_id,front_ip,front_port,agency,client_version, create_time, modify_time)                   VALUES ('init','127.0.0.1',5002,'fisco','2.7.2', NOW(),NOW())
+[2023-04-14 12:04:25] [INFO] rest_get url: http://127.0.0.1:5001/WeBASE-Node-Manager/front/refresh
+[2023-04-14 12:04:27] [ERROR] rest_get fail: (<class 'urllib.error.HTTPError'>, <HTTPError 500: ''>, <traceback object at 0x7f774e88e740>)
+[2023-04-14 12:04:27] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:27] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:27] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:27] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:27] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:27] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:04:27] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:04:27] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : sudo rm -rf /home/loveqq/fisco/webase-deploy/nginx-webase-web.pid
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : sudo rm -rf /home/loveqq/fisco/webase-deploy/nginx-webase-web.pid,status :0 , output: 
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Stopping Server com.webank.webase.node.mgr.Application Port 5001 PID(1221)...[Success]
+===============================================================================================
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file get_solc_js.sh to Unix format...
+dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Stopping Server com.webank.webase.front.Application Port 5002 PID(886)...[Success]
+===============================================================================================
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Stopping Server com.webank.webase.sign.Application Port 5004 PID(785)...[Success]
+===============================================================================================
+[2023-04-14 12:12:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:20] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:20] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:20] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:20] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:20] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file download_bin.sh to Unix format...
+dos2unix: converting file download_console.sh to Unix format...
+dos2unix: converting file start_all.sh to Unix format...
+dos2unix: converting file stop_all.sh to Unix format...
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:32] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:32] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:32] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:32] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:32] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:32] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file download_bin.sh to Unix format...
+dos2unix: converting file download_console.sh to Unix format...
+dos2unix: converting file start_all.sh to Unix format...
+dos2unix: converting file stop_all.sh to Unix format...
+[2023-04-14 12:12:33] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:33] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:33] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:12:33] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:12:33] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:33] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:33] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:33] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:12:33] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 12:12:33] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Starting Server com.webank.webase.sign.Application Port 5004 ...PID(1668) [Starting]. Please check message through the log file (default path:./log/).
+===============================================================================================
+[2023-04-14 12:12:38] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:38] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:38] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:12:38] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:12:38] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:38] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:38] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:38] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file get_solc_js.sh to Unix format...
+dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:12:38] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 12:12:38] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.front.Application Port 5002 ...PID(1717) [Starting]. Please check message through the log file (default path:./log/).
+===============================================================================================
+[2023-04-14 12:12:43] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:12:43] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:12:43] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:12:43] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:12:43] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:12:43] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:12:43] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:12:43] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:12:43] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 12:12:44] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.node.mgr.Application Port 5001 ...PID(1776) [Starting]. Please message check through the log file (default path:./log/).
+===============================================================================================
+[2023-04-14 12:12:49] [INFO]  execute cmd  start ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/webase-web/log
+[2023-04-14 12:12:49] [INFO]  execute cmd  end ,cmd : mkdir -p /home/loveqq/fisco/webase-deploy/webase-web/log,status :0 , output: 
+[2023-04-14 12:12:49] [INFO]  execute cmd  start ,cmd : which nginx
+[2023-04-14 12:12:49] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2023-04-14 12:12:49] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -c /home/loveqq/fisco/webase-deploy/comm/nginx.conf
+[2023-04-14 12:12:49] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -c /home/loveqq/fisco/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2023-04-14 12:14:49] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:14:49] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : sudo rm -rf /home/loveqq/fisco/webase-deploy/nginx-webase-web.pid
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : sudo rm -rf /home/loveqq/fisco/webase-deploy/nginx-webase-web.pid,status :0 , output: 
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Stopping Server com.webank.webase.node.mgr.Application Port 5001 PID(1776)...[Success]
+===============================================================================================
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file get_solc_js.sh to Unix format...
+dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Stopping Server com.webank.webase.front.Application Port 5002 PID(1717)...[Success]
+===============================================================================================
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:14:49] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 12:14:49] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2023-04-14 12:14:50] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Stopping Server com.webank.webase.sign.Application Port 5004 PID(1668)...[Success]
+===============================================================================================
+[2023-04-14 12:14:50] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:14:50] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:14:50] [INFO]   os.getcwd() is /home/loveqq/fisco/webase-deploy
+[2023-04-14 12:14:50] [INFO]  commProperties is /home/loveqq/fisco/webase-deploy/common.properties 
+[2023-04-14 12:14:50] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 12:14:50] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 12:14:50] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 12:14:50] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file download_bin.sh to Unix format...
+dos2unix: converting file download_console.sh to Unix format...
+dos2unix: converting file start_all.sh to Unix format...
+dos2unix: converting file stop_all.sh to Unix format...

@@ -1,0 +1,150 @@
+2023-04-14 12:04:04.417 [main] INFO  ConnectionManager() -  all connections, size: 1, list: [ConnectionInfo{host='127.0.0.1', port=20200}]
+2023-04-14 12:04:04.460 [main] INFO  ConnectionManager() -  build ECDSA ssl context with configured certificates 
+2023-04-14 12:04:05.285 [nioEventLoopGroup-2-1] INFO  ChannelHandler() -  handshake success, host: 127.0.0.1, port: 20200, ctx: 560224669
+2023-04-14 12:04:05.381 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  node: ClientVersion{version='2.7.2', supportedVersion='2.7.2', chainId='1', buildTime='20210201 10:03:03', buildType='Linux/clang/Release', gitBranch='HEAD', gitCommitHash='4c8a5bbe44c19db8a002017ff9dbb16d3d28e9da'}, content: {"id":0,"jsonrpc":"2.0","result":{"Build Time":"20210201 10:03:03","Build Type":"Linux/clang/Release","Chain Id":"1","FISCO-BCOS Version":"2.7.2","Git Branch":"HEAD","Git Commit Hash":"4c8a5bbe44c19db8a002017ff9dbb16d3d28e9da","Supported Version":"2.7.2"}}
+
+2023-04-14 12:04:05.383 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  support channel handshake node
+2023-04-14 12:04:05.390 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  channel protocol handshake success, set socket channel protocol, host: 127.0.0.1:20200, channel protocol: ChannelProtocol [protocol=3, nodeVersion=2.7.2, EnumProtocol=VERSION_3]
+2023-04-14 12:04:05.407 [main] INFO  ChannelImp() -  Connect to  nodes: 127.0.0.1:20200, java version: 11.0.18 ,java vendor: Ubuntu
+2023-04-14 12:04:05.409 [main] INFO  BcosSDK() - create BcosSDK, start channel success, cryptoType: 0
+2023-04-14 12:04:05.413 [main] INFO  BcosSDK() - create BcosSDK, start channel succ, channelProcessorThreadSize: 50, receiptProcessorThreadSize: 50
+2023-04-14 12:04:05.432 [main] INFO  GroupManagerServiceImpl() - registerBlockNumberNotifyHandler
+2023-04-14 12:04:05.435 [main] INFO  GroupManagerServiceImpl() - registerTransactionNotifyHandler
+2023-04-14 12:04:05.474 [main] INFO  BcosSDK() - create BcosSDK, create groupManagerService success
+2023-04-14 12:04:05.960 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:05.972 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.262 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.265 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.284 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.287 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.307 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.309 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.317 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.325 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.348 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.352 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.382 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.387 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.426 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.428 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.454 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.456 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.458 [main] INFO  AmopImp() - update subscribe inform 1 peers
+2023-04-14 12:04:06.465 [main] INFO  AmopImp() - amop module started
+2023-04-14 12:04:06.468 [main] INFO  AmopImp() - update subscribe inform 1 peers
+2023-04-14 12:04:06.469 [main] INFO  BcosSDK() - create BcosSDK, create Amop success
+2023-04-14 12:04:06.787 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.789 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.803 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.806 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.832 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.834 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.835 [main] INFO  CryptoSuite() - init CryptoSuite, cryptoType: 0
+2023-04-14 12:04:06.860 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.862 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.864 [main] INFO  Client() - build client success for group 1
+2023-04-14 12:04:06.870 [main] INFO  BcosSDK() - create client for group 1 success
+2023-04-14 12:04:06.896 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.897 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.911 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.916 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.949 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:06.950 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.596 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.601 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.727 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.730 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.736 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.738 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.756 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.757 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.762 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.763 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.782 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:07.783 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.716 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.718 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.736 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.739 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.773 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.774 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.776 [pool-11-thread-1] INFO  CryptoSuite() - init CryptoSuite, cryptoType: 0
+2023-04-14 12:04:21.820 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.823 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:04:21.842 [pool-11-thread-1] INFO  Client() - build client success for group 2
+2023-04-14 12:04:21.851 [pool-11-thread-1] INFO  BcosSDK() - create client for group 2 success
+2023-04-14 12:13:04.421 [main] INFO  ConnectionManager() -  all connections, size: 1, list: [ConnectionInfo{host='127.0.0.1', port=20200}]
+2023-04-14 12:13:04.517 [main] INFO  ConnectionManager() -  build ECDSA ssl context with configured certificates 
+2023-04-14 12:13:05.952 [nioEventLoopGroup-2-1] INFO  ChannelHandler() -  handshake success, host: 127.0.0.1, port: 20200, ctx: 1773989405
+2023-04-14 12:13:06.203 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  node: ClientVersion{version='2.7.2', supportedVersion='2.7.2', chainId='1', buildTime='20210201 10:03:03', buildType='Linux/clang/Release', gitBranch='HEAD', gitCommitHash='4c8a5bbe44c19db8a002017ff9dbb16d3d28e9da'}, content: {"id":0,"jsonrpc":"2.0","result":{"Build Time":"20210201 10:03:03","Build Type":"Linux/clang/Release","Chain Id":"1","FISCO-BCOS Version":"2.7.2","Git Branch":"HEAD","Git Commit Hash":"4c8a5bbe44c19db8a002017ff9dbb16d3d28e9da","Supported Version":"2.7.2"}}
+
+2023-04-14 12:13:06.209 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  support channel handshake node
+2023-04-14 12:13:06.227 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  channel protocol handshake success, set socket channel protocol, host: 127.0.0.1:20200, channel protocol: ChannelProtocol [protocol=3, nodeVersion=2.7.2, EnumProtocol=VERSION_3]
+2023-04-14 12:13:06.255 [main] INFO  ChannelImp() -  Connect to  nodes: 127.0.0.1:20200, java version: 11.0.18 ,java vendor: Ubuntu
+2023-04-14 12:13:06.259 [main] INFO  BcosSDK() - create BcosSDK, start channel success, cryptoType: 0
+2023-04-14 12:13:06.263 [main] INFO  BcosSDK() - create BcosSDK, start channel succ, channelProcessorThreadSize: 50, receiptProcessorThreadSize: 50
+2023-04-14 12:13:06.292 [main] INFO  GroupManagerServiceImpl() - registerBlockNumberNotifyHandler
+2023-04-14 12:13:06.294 [main] INFO  GroupManagerServiceImpl() - registerTransactionNotifyHandler
+2023-04-14 12:13:06.356 [main] INFO  BcosSDK() - create BcosSDK, create groupManagerService success
+2023-04-14 12:13:07.631 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:07.674 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.536 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.540 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.637 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.662 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.735 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.758 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.810 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.812 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.881 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.889 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.951 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:08.957 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.030 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.034 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.081 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.084 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.088 [main] INFO  AmopImp() - update subscribe inform 1 peers
+2023-04-14 12:13:09.108 [main] INFO  AmopImp() - amop module started
+2023-04-14 12:13:09.108 [main] INFO  AmopImp() - update subscribe inform 1 peers
+2023-04-14 12:13:09.112 [main] INFO  BcosSDK() - create BcosSDK, create Amop success
+2023-04-14 12:13:09.754 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.761 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.790 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.793 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.842 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.845 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.850 [main] INFO  CryptoSuite() - init CryptoSuite, cryptoType: 0
+2023-04-14 12:13:09.911 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.912 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.919 [main] INFO  Client() - build client success for group 1
+2023-04-14 12:13:09.925 [main] INFO  BcosSDK() - create client for group 1 success
+2023-04-14 12:13:09.967 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.969 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.988 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:09.990 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.036 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.038 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.775 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.788 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.911 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.916 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.927 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.929 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.949 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.951 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.959 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.960 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.978 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:10.984 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.789 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.791 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.807 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.808 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.825 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.826 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.827 [pool-11-thread-1] INFO  CryptoSuite() - init CryptoSuite, cryptoType: 0
+2023-04-14 12:13:16.843 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.844 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2023-04-14 12:13:16.845 [pool-11-thread-1] INFO  Client() - build client success for group 2
+2023-04-14 12:13:16.847 [pool-11-thread-1] INFO  BcosSDK() - create client for group 2 success
