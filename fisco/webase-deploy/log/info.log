@@ -1384,3 +1384,50 @@ Stopping Server com.webank.webase.sign.Application Port 5004 PID(1668)...[Succes
 dos2unix: converting file download_console.sh to Unix format...
 dos2unix: converting file start_all.sh to Unix format...
 dos2unix: converting file stop_all.sh to Unix format...
+[2023-04-14 16:32:56] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:32:56] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:32:56] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:32:56] [INFO]  commProperties is /home/loveqq/Sanshui_project/fisco/webase-deploy/common.properties 
+[2023-04-14 16:32:56] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:32:56] [INFO]  commProperties is /home/loveqq/Sanshui_project/fisco/webase-deploy/common.properties 
+[2023-04-14 16:32:56] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 16:32:56] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 16:32:56] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 16:32:56] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file download_bin.sh to Unix format...
+dos2unix: converting file download_console.sh to Unix format...
+dos2unix: converting file start_all.sh to Unix format...
+dos2unix: converting file stop_all.sh to Unix format...
+[2023-04-14 16:33:00] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:00] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:02] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:02] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:02] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:02] [INFO]  commProperties is /home/loveqq/Sanshui_project/fisco/webase-deploy/common.properties 
+[2023-04-14 16:33:02] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 16:33:02] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 16:33:02] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 16:33:02] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 16:33:02] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 16:33:02] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file get_solc_js.sh to Unix format...
+dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 16:33:02] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 16:33:02] [INFO]  execute cmd  end ,cmd : bash start.sh,status :255 , output: JAVA_HOME has not been configured
+[2023-04-14 16:33:15] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:15] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:15] [INFO]   os.getcwd() is /home/loveqq/Sanshui_project/fisco/webase-deploy
+[2023-04-14 16:33:15] [INFO]  commProperties is /home/loveqq/Sanshui_project/fisco/webase-deploy/common.properties 
+[2023-04-14 16:33:15] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2023-04-14 16:33:15] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2023-04-14 16:33:15] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2023-04-14 16:33:15] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2023-04-14 16:33:15] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2023-04-14 16:33:15] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :0 , output: dos2unix: converting file get_solc_js.sh to Unix format...
+dos2unix: converting file start.sh to Unix format...
+dos2unix: converting file status.sh to Unix format...
+dos2unix: converting file stop.sh to Unix format...
+[2023-04-14 16:33:15] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2023-04-14 16:33:15] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.front.Application Port 5002 ...PID(932) [Starting]. Please check message through the log file (default path:./log/).
+===============================================================================================
